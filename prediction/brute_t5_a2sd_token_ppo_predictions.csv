@@ -1,0 +1,1001 @@
+prediction_shorthand,ground_truth_shorthand,prediction_description,ground_truth_description
+MEAN,Nkululeko,A Tool for supervised Machine Learning in Speaker Character Domain,A Tool For Rapid Speaker Characteristics Detection
+DAICT,QADI,A Dialect Identification Dataset for Arabic Tweets,Arabic Dialect Identification in the Wild
+CoMix,BERTologiCoMix,Finetuning with different Types of Code-Mixed Data,How does Code-Mixing interact with Multilingual BERT?
+PAL,PsyQA,A Large-Scale Chinese Dataset of Counseling Questions and Answer Pairs,A Chinese Dataset for Generating Long Counseling Text for Mental Health Support
+PYCOT,UniRPG,A Programmatic Programming Approach to Interpretable and Scalable Over Heterogeneous Knowledge,Unified Discrete Reasoning over Table and Text as Program Generation
+DISALD,TYPIC,A Template Set for Defining Dialogues in Educational Discussions,A Corpus of Template-Based Diagnostic Comments on Argumentation
+D-KBC,DualTKB,A Dual Learning Approach for Unsupervised Text-to-Text Transfer in Commonsense Knowledge Bases,A Dual Learning Bridge between Text and Knowledge Base
+WeCheck,LIME,A Framework for Weakly-Supervised Text Classification,Weakly-Supervised Text Classification without Seeds
+P-CTG,DisCup,Prompt Learning with Attributes,Discriminator Cooperative Unlikelihood Prompt-tuning for Controllable Text Generation
+Tiny-Tuning,ViGGO,A Corpus of Tiny Labels for Task-oriented Dialogue Systems,A Video Game Corpus for Data-To-Text Generation in Open-Domain Conversation
+LOA,LOA,Neuro-Symbolic Actions based on Probabilistic Rules,Logical Optimal Actions for Text-based Interaction Games
+TRUE,CAMERO,A Consistency-Regularized Modeling Approach to Predicting Models,Consistency Regularized Ensemble of Perturbed Language Models with Weight Sharing
+HyperNews,Hypernym-LIBre,a Corpus for Hypernym Detection,A Free Web-based Corpus for Hypernym Detection
+PoliTitle,NeuS,A Politeness-Aware Metric and Model for Hierarchical Bias Evaluation,Neutral Multi-News Summarization for Mitigating Framing Bias
+SAIL,SHARE,a lexical resource for Spanish based on offensive terms and expressions,A Lexicon of Harmful Expressions by Spanish Speakers
+PROGAME,Progmatica,a Prosodic-based Spoken Span-extractive Portuguese Speech Corpus,A Prosodic Database for European Portuguese
+ProbBERT,BERTnesia,Probing BERT for Relational Knowledge Completion,Investigating the capture and forgetting of knowledge in BERT
+D-NER,Razmecheno,A Dataset of Diachronic Texts,Named Entity Recognition from Digital Archive of Diaries Prozhito&#39;&#39;
+TellSkills,ALERT,A Benchmark for Evaluating Fine-grained Reasoning Skills in Language Models,Adapt Language Models to Reasoning Tasks
+CCConv,NatCS,A Multi-Domain Collection of Spoken Customer Care Conversations,Eliciting Natural Customer Support Dialogues
+ReferIt,MuDoCo,A Dataset of Referring Expressions in Real-world Applications,Corpus for Multidomain Coreference Resolution and Referring Expression Generation
+RAST,RSC,a Romanian Speech Corpus for Dialogue Research,A Romanian Read Speech Corpus for Automatic Speech Recognition
+Chunking,GCDT,Global Context Enhanced Deep Transition Architecture for Sequence Labeling,A Global Context Enhanced Deep Transition Architecture for Sequence Labeling
+UWM,KUL-Eval,Combining categorial grammars for semantic parsing of Spatial robot commands,A Combinatory Categorial Grammar Approach for Improving Semantic Parsing of Robot Commands using Spatial Context
+SEMTAG,SemTAG,Tree Adjoining Grammars,a platform for specifying Tree Adjoining Grammars and performing TAG-based Semantic Construction
+MuLLinC,CollFrEn,A Manually Compred French-English Collocation Resource,Rich Bilingual English--French Collocation Resource
+ArbLRT,ALRT,the Arabic Lexical Recognition Tests Tool,Cutting Edge Tool for Automatic Generation of Arabic Lexical Recognition Tests
+MPCC,MDCSpell,Multi-task Detection for Chinese Spelling Correction,A Multi-task Detector-Corrector Framework for Chinese Spelling Correction
+TabPerT,Tab-CoT,Tabular-Form CoT Prompting for Complex Reasoning,Zero-shot Tabular Chain of Thought
+GL-Match,UniFine,Fine-grained Information for Zero-Shot Vision-language Learning,A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding
+XtremeCentric,Adaptor,Enhanced Objective-Centric Approach for Domain Adaptation,Objective-Centric Adaptation Framework for Language Models
+DerivBERT,DagoBERT,Derivationally and Generatively optimized BERT for Pretrained Language Models,Generating Derivational Morphology with a Pretrained Language Model
+IndoNLUE,IndoNLU,"A Novel Resource for Training, Evaluation, and Benchmarking on Indonesian Natural Language Understanding",Benchmark and Resources for Evaluating Indonesian Natural Language Understanding
+SsMix,SSMix,Span-based Mixup for Text Classification,Saliency-Based Span Mixup for Text Classification
+RADDLE,LMentry,A Benchmark for Evaluating Large Language Models,A Language Model Benchmark of Elementary Language Tasks
+MEANING,MEGATRON-CNTRL,Large-scale Language Models and Controllable Text Generation,Controllable Story Generation with External Knowledge Using Large-Scale Language Models
+MISC,COIN,Hierarchical Multimodal Interaction for Emotion Detection in Conversation,Conversational Interactive Networks for Emotion Recognition in Conversation
+IceQA,GameQA,A Crowdsourcing Platform for Low-Resource Question Answering,Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets
+TreeEdge,PBIE,an annotated syntactic tree editor and extraction rule editor,A Data Preparation Toolkit Toward Developing a Parsing-Based Information Extraction System
+XL-MOR,THOMAS,Cross-linguality and Context in Morphology,The Hegemonic OSU Morphological Analyzer using Seq2seq
+HE-GRU,CRYPTOGRU,A Hybrid Schema for Low-latency Inference,Low Latency Privacy-Preserving Text Analysis With GRU
+WatClaimCheck,PerspectroScope,A Web-based Platform for Claim-Worthy Claims,A Window to the World of Diverse Perspectives
+HotT-R,HOTTER,Evaluating Representations of Documents,Hierarchical Optimal Topic Transport with Explanatory Context Representations
+MedCQA,MedConQA,A Chinese Medical Knowledge Graph-based Conversational Question Answering System,Medical Conversational Question Answering System based on Knowledge Graphs
+MixMix,SelfMix,Mixture Models for Textual Classification,Robust Learning against Textual Label Noise with Self-Mixup Training
+RetriX,Zemi,A Semi-Parmetric Language Model for Zero-Shot Task Generalization,Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks
+SEARE,SEE-Few,"See, Expand and Entailment Learning for Few-shot Named Entity Recognition","Seed, Expand and Entail for Few-shot Named Entity Recognition"
+MaskedBERT,HanTrans,Pre-trained Chinese BERT Model,An Empirical Study on Cross-Era Transferability of Chinese Pre-trained Language Model
+MEAN,HiEve,A Corpus for Recognizing Relations of spatiotemporal containment,A Corpus for Extracting Event Hierarchies from News Stories
+JADE,BCCWJ-DepPara,Japanese Syntactic Dependency Tree Structures,A Syntactic Annotation Treebank on the Balanced Corpus of Contemporary Written Japanese&#39;
+DocIE,DocOIE,A Document-Level Context-Aware Open Information Extraction Dataset,A Document-level Context-Aware Dataset for OpenIE
+SemanticAxes,SemAxis,Characterizing Word Semantic Representations,A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment
+METAE,MTAdam,Multi-Terminer for Weighted Training,Automatic Balancing of Multiple Training Loss Terms
+PLOMELO,CogCompTime,Temporal Information Extraction from Text,A Tool for Understanding Time in Natural Language
+WordNet-Terminer,WNTERM,a specialized Lexicon for the Creation of WordNet and Terminology,Enriching the MCR with a Terminological Dictionary
+CEARL,COIL,A Contextualized Architecture for Accuracy Matching Retrieval,Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List
+ADE-ADE,NADE,Robust Adverse Drug Event Extraction Models,A Benchmark for Robust Adverse Drug Events Extraction in Face of Negations
+AdvEval,RockNER,Robustness Evaluating NER Models,A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models
+NomNet,NomLex-PT,an lexical resource for Portuguese Nominalizations,A Lexicon of Portuguese Nominalizations
+Hi-Readerarchie,Hiearchie,Visualizing and Analyzing Large Documents,Visualization for Hierarchical Topic Models
+ArguminSumm,ArgLegalSumm,Pretrained Language Modeling for Summaries of Legal Billions,Improving Abstractive Summarization of Legal Documents with Argument Mining
+NomDTB,NorNE,A manually annotated corpus of named entities,Annotating Named Entities for Norwegian
+Propaganda,ProtoTEx,A Propaganda Detection System based on Prototype Networks,Explaining Model Decisions with Prototype Tensors
+VerbBank,Verbframator,Generating Verb Frames from Marathi Wordnet,Semi-Automatic Verb Frame Annotator Tool with Special Reference to Marathi
+TransQuest,SOURCE,Translation Quality Estimation Using Pre-trained Translation Models,SOURce-Conditional Elmo-style Model for Machine Translation Quality Estimation
+UWM,ezDI,Disorder Identification from Clinical Notes,A Supervised NLP System for Clinical Narrative Analysis
+P-KD,Pro-KD,Phenomenon-based Distillation for Pre-trained Models,Progressive Distillation by Following the Footsteps of the Teacher
+ReferIt,OCID-Ref,A Referring Expressions of Occlusion Questions,A 3D Robotic Dataset With Embodied Language For Clutter Scene Grounding
+HTT-HTM,Hypoformer,Efficient Transformer using Hybrid Tensor-Train Decomposition,Hybrid Decomposition Transformer for Edge-friendly Neural Machine Translation
+MTLTC,MOOD,Modularized pharaoh decoding for state-of-the-art machine translation,A Modular Object-Oriented Decoder for Statistical Machine Translation
+SciSPACy,ScispaCy,Towards Robust Biomedical Text Processing,Fast and Robust Models for Biomedical Natural Language Processing
+FBK-WSD,UTD-HLT-CG,Semantic Architecture for Automatic Classification of Relations between Nominals,Semantic Architecture for Metonymy Resolution and Classification of Nominal Relations
+POLITICAL,M-Arg,A Large-Scale Argument Mining Dataset on US 2020 POLITICAL Debates,Multimodal Argument Mining Dataset for Political Debates with Audio and Transcripts
+GLUEBERT,XDBERT,Cross-modal Distillation for Natural Language Understanding,Distilling Visual Information to BERT from Cross-Modal Systems to Improve Language Understanding
+JIME,BCCWJ-TimeBank,Japanese Temporal Ordering Annotation Scheme,Temporal and Event Information Annotation on Japanese Text
+GRETF,GIFT,Graph-induced Fine-tuning for MPC Understanding,Graph-Induced Fine-Tuning for Multi-Party Conversation Understanding
+NewsRec,Uni-FedRec,A Privacy-Preserving News Recommendation Framework,A Unified Privacy-Preserving News Recommendation Framework for Model Training and Online Serving
+SimMeT,SIMULEVAL,A Toolkit for Simultaneous Text and Speech Translation,An Evaluation Toolkit for Simultaneous Translation
+IntentCraft,LINGUIST,Generating Data for Intent Classification and Slot Tagging,Language Model Instruction Tuning to Generate Annotated Utterances for Intent Classification and Slot Tagging
+IndicBART,Samanantar,Large-Scale Parallel Corpora for Indic Languages,The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages
+DynaSumm,EigenSent,Aspectral Decomposition and Summarization Method for Sentence Embeddings,Spectral sentence embeddings using higher-order Dynamic Mode Decomposition
+CONMix,DialAug,Contrastive Learning for Dialogue Representations,Mixing up Dialogue Contexts in Contrastive Learning for Robust Conversational Modeling
+NLNMT,THUMT,A Toolkit for Neural Machine Translation,An Open-Source Toolkit for Neural Machine Translation
+ENPAR,CLaC-CORE,Entity Feature Combination for Semantic Textual Similarity Shared Task,Exhaustive Feature Combination for Measuring Textual Similarity
+DITTO,COMBO,EUD Parsing Enhanced by Universal Dependencies,A New Module for EUD Parsing
+AL,MM-Align,ALigning Modalities with Optimal Transport for Improved Inference,Learning Optimal Transport-based Alignment Dynamics for Fast and Accurate Inference on Missing Modality Sequences
+TransAug,SwitchOut,Data Augmentation for Text-based Tasks,an Efficient Data Augmentation Algorithm for Neural Machine Translation
+TS-Eval,LG-Eval,a Toolkit for Developing Online Language Evaluation,A Toolkit for Creating Online Language Evaluation Experiments
+SW-MMSA,CH-SIMS,A Large-Scale Chinese Single- and Multi-modal Sentiment Analysis Dataset,A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality
+SINAI,Lsislif,A Logistic Regression Model for OTE and Sentiment Polarity,CRF and Logistic Regression for Opinion Target Extraction and Sentiment Polarity Analysis
+ReRankRank,CORE,A Cooperative Model for Ranking and Retrieval-based Dialogue Systems,Cooperative Training of Retriever-Reranker for Effective Dialogue Response Selection
+NewsRevision,NewsEdits,A Large-Scale and Multilingual Dataset of News Revision Billions,A News Article Revision Dataset and a Novel Document-Level Reasoning Challenge
+TOPBank,WikiPossessions,A Benchmark Corpus for Temporally-oriented Prediction,Possession Timeline Generation as an Evaluation Benchmark for Machine Reading Comprehension of Long Texts
+TellMeT,COGEX,Integrating a Logic Prover into Question Answering,A Logic Prover for Question Answering
+ConText,Contractions,Analyzing the Alignment of Portuguese contractions,"To Align or Not to Align, That Is the Question"
+REQA,MultiReQA,A Retrieval QA Evaluation Suite,A Cross-Domain Evaluation forRetrieval Question Answering Models
+MRC,NUT-RC,A noisy User-generated Text-oriented Reading Comprehension Model,Noisy User-generated Text-oriented Reading Comprehension
+TRLRE,TERL,Transformer Enhanced RL Architecture for Relation Extraction,Transformer Enhanced Reinforcement Learning for Relation Extraction
+OSZuluQA,OWLSIZ,an OWL Simplified IsiZulu Controlled Natural Language,An isiZulu CNL for structured knowledge validation
+ANNNER,NeuroNER,A Named Entity Recognition Tool,an easy-to-use program for named-entity recognition based on neural networks
+ConvFiT,genCNN,A Convolutional Neural Network for Word Sequence Prediction,A Convolutional Architecture for Word Sequence Prediction
+BECEC,SCAR,An unsupervised deep learning framework for Sentence Compression,Sentence Compression using Autoencoders for Reconstruction
+COMET,WAX,A Large-Scale Data Set of Word Associations with Explanations,A New Dataset for Word Association eXplanations
+TransEfficient,EvolveMT,an efficient combination of multiple machine translation engine,an Ensemble MT Engine Improving Itself with Usage Only
+BERT-LMTC,CoPHE,Hierarchical ICD-10 Representation for Multi-Label Text Classification,A Count-Preserving Hierarchical Evaluation Metric in Large-Scale Multi-Label Text Classification
+BECOR,BART,A Modular Toolkit for Coreference Resolution,A Multilingual Anaphora Resolution System
+IndoNoculars,NusaCrowd,A collaborative initiative to collect and unify resources for Indonesian languages,Open Source Initiative for Indonesian NLP Resources
+BERT-Empirical,Trialstreamer,A living database of clinical trial reports,Mapping and Browsing Medical Evidence in Real-Time
+IndoWordNet,pyiwn,an Easy-to-Use Framework for Indian Language WordNets,A Python based API to access Indian Language WordNets
+MEAN,SANDI,Multimodal Image Alignment for Text-Image Alignment,Story-and-Images Alignment
+LinggleWrite,Level-Up,an  tutoring system for English learners,Learning to Improve Proficiency Level of Essays
+CFO,CFO,Computation Flow Orchestrator,A Framework for Building Production NLP Systems
+SemSimCSE,ECNUCS,Semantic Textual Similarity with Syntactic and Semantic Features,Measuring Short Text Semantic Equivalence Using Multiple Similarity Measurements
+TELIDA,BUT-TYPED,Typed-similarity based Text Processing,Using domain knowledge for computing typed similarity
+PRADISE,PDALN,Phenomenon-based Knowledge Distillation Approach for Cross-Domain Named Entity Recognition,Progressive Domain Adaptation over a Pre-trained Model for Low-Resource Cross-Domain Named Entity Recognition
+GLAAT,latent-GLAT,Accuracy-Augmented Learning for Parallel Text Generation,Glancing at Latent Variables for Parallel Text Generation
+BAM,SupMMD,A Novel Method for Generate and Update Summarization,A Sentence Importance Model for Extractive Summarization using Maximum Mean Discrepancy
+EasyTree,mtrain,A convenience tool for machine translation,A Convenience Tool for Machine Translation
+NLNLP,DeepNL,Natural Language Processing with Probabilistic Rules,a Deep Learning NLP pipeline
+DocReader,Doc-GCN,Integrating Heterogeneous Aspects for Document Layout Analysis,Heterogeneous Graph Convolutional Networks for Document Layout Analysis
+CaGAN,CoCGAN,Contrastive Category Generative Adversarial Network for Generative Text Generation,Contrastive Learning for Adversarial Category Text Generation
+DITPER,DigiCall,Measuring Digital Transformation Phenomenarios,A Benchmark for Measuring the Maturity of Digital Strategy through Company Earning Calls
+HiTIQA,HITIQA,High-Quality Interactive Question Answering,A Data Driven Approach to Interactive Analytical Question Answering
+FBK-HLT,SimCompass,Exploiting Traditional Knowledge Based Metrics for SemEval 2014 Task 3,Using Deep Learning Word Embeddings to Assess Cross-level Similarity
+MEAN,SimOAP,Multi-stage QA-Sampling and Post-Evaluation for Dialogue Generation,Improve Coherence and Consistency in Persona-based Dialogue Generation via Over-sampling and Post-evaluation
+BIZIL,BILinMID,a comparable text corpus of Spanish and English Bilinguals in the US Midwest,A Spanish-English Corpus of the US Midwest
+,PENELOPIE,GreekOpen Information Extraction from Greek Text,Enabling Open Information Extraction for the Greek Language through Machine Translation
+Praline,Praaline,"a Tool for Managing, Annotating and Visualising Spoken Corpora",Integrating Tools for Speech Corpus Research
+HinLDEC,HLDC,Hinted Legal Documents Corpus,Hindi Legal Documents Corpus
+PromptGen,PromptGen,Automatic Prompt Generation for Knowledge probing,Automatically Generate Prompts using Generative Models
+BLCUNLP,ezDI,Disorder Identification Using a Dictionary look-up Algorithm,A Hybrid CRF and SVM based Model for Detecting and Encoding Disorder Mentions in Clinical Notes
+ErrEval,Errudite,Interactive Tool for Informative Error Analysis,"Scalable, Reproducible, and Testable Error Analysis"
+DataSets,Datasets,a community library for NLP,A Community Library for Natural Language Processing
+TlaxClaxCastle,TLAXCALA,Parallel and Multilingual Corpora for Independent News,a multilingual corpus of independent news
+EMOZ,EmoInHindi,A Large-Scale Conversational Dataset for Multi-label Emotion and Intensity Recognition in Dialogues,A Multi-label Emotion and Intensity Annotated Dataset in Hindi for Emotion Recognition in Dialogues
+JM-Summ,MM-AVS,A Large-Scale Multimodal Summarization Dataset,A Full-Scale Dataset for Multi-modal Summarization
+EyeMT,iAppraise,A framework for MT Evaluation,A Manual Machine Translation Evaluation Environment Supporting Eye-tracking
+CoVERT,Mega-COV,A Large-Scale Twitter Dataset for COVID-19,A Billion-Scale Dataset of 100&#43; Languages for COVID-19
+TITPI,CATaLog,TM-based CAT Tool,New Approaches to TM and Post Editing Interfaces
+VisualHist,HistoBankVis,"Visualizing Complex, Multidimensional Data",Detecting Language Change via Data Visualization
+BioEve,DICE,Biomedical Event Extraction as Conditional Generation,Data-Efficient Clinical Event Extraction with Generative Models
+SINAI,SINAI,Identifying Sentiment Syntactic Features for Aspect Based Sentiment Analysis,Syntactic Approach for Aspect-Based Sentiment Analysis
+PADE,PREADD,Prefix-Adaptive Decoding for controlled text generation,Prefix-Adaptive Decoding for Controlled Text Generation
+PAWSEval,PAWS-X,A Dataset of Multiple Typologically-Diverse Languages for Adversarial Identifiers,A Cross-lingual Adversarial Dataset for Paraphrase Identification
+BiST,BiSET,Bi-directional Selective Encoding with Template for Neural Summarization,Bi-directional Selective Encoding with Template for Abstractive Summarization
+ChemSchema,MatSci-NLP,A Natural Language Benchmark for Materials Science Text,Evaluating Scientific Language Models on Materials Science Language Tasks Using Text-to-Schema Modeling
+C-Fact,CrowdChecked,Exploring Fact-Checking in Social Media,Detecting Previously Fact-Checked Claims in Social Media
+FlowControl,BOLT,Adapting Energy-based Models for Controlled Text Generation,Fast Energy-based Controlled Text Generation with Tunable Biases
+AutoDial,Retico,Incremental Dialogue for Spoken Dialogue Systems,An incremental framework for spoken dialogue systems
+UBC-WSP,UCD-FC,Classifying Semantic Relations by WordNet Sense Pairs,Deducing semantic relations using WordNet senses that occur frequently in a database of noun-noun compounds
+BabelRE,UniRE,A Tabular Representation for Entity and Relation Extraction,A Unified Label Space for Entity Relation Extraction
+ANTIME,ARNOR,Attention Regularization based NOise Reduction for Distant Supervision Relation Classification,Attention Regularization based Noise Reduction for Distant Supervision Relation Classification
+ReSel,CVBed,Restructing CVs into a Single Structure,Structuring CVs usingWord Embeddings
+WASP-WSC,WhisperHakka,Integrating the Wav2vec2 and Whisper into an ASR System,A Hybrid Architecture Speech Recognition System for Low-Resource Taiwanese Hakka
+Babel,Ciron,A Large-Scale Chinese Irony Detection Dataset,a New Benchmark Dataset for Chinese Irony Detection
+PED,PoD,Positional Dependency-based Word Embedding for Aspect Term Extraction,Positional Dependency-Based Word Embedding for Aspect Term Extraction
+FASTSEEQ,FastSeq,Fast Sequence Generation without Accuracy Loss,Make Sequence Generation Faster
+Giza++,FCC,Statistical Dictionary for Cross-lingual WASP and Cross-lingual Lexical Substitution,Modeling Probabilities with GIZA&#43;&#43; for Task 2 and 3 of SemEval-2
+GCN,SpellGCN,Graph Convolution Network for Chinese Spelling Check,Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check
+CIPS-SIGHAN,SIR-NERD,A Chinese Named Entity Recognition and Disambiguation System,A Chinese Named Entity Recognition and Disambiguation System using a Two-Stage Method
+PoliStance,DeInStance,A Corpus of Politeness and Stances in German,Creating and Evaluating a German Corpus for Fine-Grained Inferred Stance Detection
+DiscussionSumm,Classummary,Introducing Discussion Summarization to Online Classification,Introducing Discussion Summarization to Online Classrooms
+BLARK,MEDAR,Towards BLARK in Arabic,Collaboration between European and Mediterranean Arabic Partners to Support the Development of Language Technology for Arabic
+QAVal,Shiraz,A Probabilistic Approach to QA Validation,A Proposed List Wise Approach to Answer Validation
+ECTS,ECTSum,A Dataset of Earnings Calls,A New Benchmark Dataset For Bullet Point Summarization of Long Earnings Call Transcripts
+MaTrEx,TransDoop,Massive Multilingual Crowdsourcing of Parallel Corpora,A Map-Reduce based Crowdsourced Translation for Complex Domain
+TellMeWhy,ChartQA,A Dataset for Complex Reasoning over Charts,A Benchmark for Question Answering about Charts with Visual and Logical Reasoning
+WASP-LSTM,LSTMEmbed,Integrating a BLSTM Model to Represent Word Embeddings,Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories
+PolyLM,MUSE,A Modular Approach to Improve Word Sense Representations Learning,Modularizing Unsupervised Sense Embeddings
+GRAML,GAML-BERT,Gradient Aligned Mutual Learning BERT for Improved BERT Exiting,Improving BERT Early Exiting by Gradient Aligned Mutual Learning
+TexText,AutoChart,A Large Dataset for Analyzing Charts,A Dataset for Chart-to-Text Generation Task
+BERT-NER,AutoTriggER,Generating Entity Triggers for Named Entity Recognition,Label-Efficient and Robust Named Entity Recognition with Auxiliary Trigger Extraction
+BTSI,Lingua,Automatic VideoDubbing for Interpreting live speeches,Addressing Scenarios for Live Interpretation and Automatic Dubbing
+UDA,UXLA,An Unsupervised Data Augmentation Framework for Zero-Resource Cross-Lingual Transfer Learning,A Robust Unsupervised Data Augmentation Framework for Zero-Resource Cross-Lingual NLP
+Cosines,CoSiNES,A Contrastive Siamese Network for Entity Standardization,Contrastive Siamese Network for Entity Standardization
+DynaMeT,PAD-Net,Partially dynamic Network for Dynamic Networks,An Efficient Framework for Dynamic Networks
+maxent,JMaxAlign,A Java maxent classifier for detecting Parallel Corpora,A Maximum Entropy Parallel Sentence Alignment Tool
+PUSMT,OPUS-CAT,Software to Assist Neural Machine Translation,Desktop NMT with CAT integration and local fine-tuning
+FAST,FLAT,Improving Chinese Named Entity Recognition with flat-style Transformer,Chinese NER Using Flat-Lattice Transformer
+TenseTask,TeCS,A parallel tense test set,A Dataset and Benchmark for Tense Consistency of Machine Translation
+USZEGED,SHEF-MIME,Structured Prediction based on Imitation Learning,Word-level Quality Estimation Using Imitation Learning
+QuestSumm,QMSum,A Benchmark for Query-based Meeting Summarization,A New Benchmark for Query-based Multi-domain Meeting Summarization
+EasyEval,LEGOEval,A Toolkit for Evaluating Dialogue Systems,An Open-Source Toolkit for Dialogue System Evaluation via Crowdsourcing
+BERT-COM,PatchBERT,Pre-trained Language Model for Downstream Applications,"Just-in-Time, Out-of-Vocabulary Patching"
+CMU-CMU,Cryptonite,A Large-Scale Dataset of Cyptic Clues,A Cryptic Crossword Benchmark for Extreme Ambiguity in Language
+IndicNLP,IndicNLPSuite,NLP Resources for Indic Languages,"Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages"
+BLM,Transformer-XL,Pretrained Models for Long-Term Dependency Classification,Attentive Language Models beyond a Fixed-Length Context
+ONYX,COMETA,A Corpus of Biomedical Entity Linking Links,A Corpus for Medical Entity Linking in the Social Media
+BERT-Attack,SlowBERT,Accelerating BERT Input via Adversarial Text Generation,Slow-down Attacks on Input-adaptive Multi-exit BERT
+AIN,IARM,Memory Networks for Nearest-Aspect Sentiment Classification,Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis
+MEANIE,OpenKI,MEANing the Web-scale Knowledge Extraction and Alignment,Integrating Open Information Extraction and Knowledge Bases with Relation Inference
+NM-NM,CM-Gen,A Large-Scale Multitask Framework for Chinese Nominal Metaphor Generation,A Neural Framework for Chinese Metaphor Generation with Explicit Context Modelling
+XtremeBank,POLYGLOT,A Multilingual Semantic Role Labeling System,Multilingual Semantic Role Labeling with Unified Labels
+MedWORDS,StereoKG,Generating Knowledge Graph of Cultural Biases,Data-Driven Knowledge Graph Construction For Cultural Knowledge and Stereotypes
+AutoEncEnc,AZMAT,Word Embeddings and Lexical Overlap Features for SemEval-2015 Task 2,Sentence Similarity Using Associative Matrices
+EmotionEMO,EmotionX-AR,Modeling Emotions in Emotional Emotions,CNN-DCNN autoencoder based Emotion Classifier
+CoNaL,MCoNaLa,Benchmarking Code Generation from Natural Language Commands,A Benchmark for Code Generation from Multiple Natural Languages
+VopurCOVID,Vapur,a BioMolecular Search Engine for Coronavirus Disease 2019,A Search Engine to Find Related Protein - Compound Pairs in COVID-19 Literature
+Bpemb,BPEmb,Pre-trained Subword Unit Embeddings,Tokenization-free Pre-trained Subword Embeddings in 275 Languages
+oIQa,OpinionConv,a conversational AI system for simulating sales conversations,Conversational Product Search with Grounded Opinions
+UIMANLP,TextImager,A UIMA-based Framework for NLP and Visualization,a Distributed UIMA-based System for NLP
+DBias,WIKIBIAS,A Manually Annotated Corpus of Wikipedia Biases,Detecting Multi-Span Subjective Biases in Language
+ArguminStruct,AQE,A quadruplet extraction system for argument mining,Argument Quadruplet Extraction via a Quad-Tagging Augmented Generative Approach
+MKGC,MoSE,Modality Split Representation Learning and Ensemble Inference for Multimodal Knowledge Graph Completion,Modality Split and Ensemble for Multimodal Knowledge Graph Completion
+Pro pronunciationlexicons,CrossTowns,"a corpus of English, French, and German Pronunciations",Automatically Generated Phonetic Lexicons of Cross-lingual Pronunciation Variants of European City Names
+SParE,DUSTer,Semantic Parsing for Word-Level Alignment,a method for unraveling cross-language divergences for statistical word-level alignment
+BART,BioAR,A Biomedical Anaphora Resolution System,Anaphora Resolution for Relating Protein Names to Proteome Database Entries
+AdaPT,APOLLO,Adaptive Pretraining for Logical Reasoning over Text,A Simple Approach for Adaptive Pretraining of Language Models for Logical Reasoning
+BERT-X,MonoByte,Efficient Zero-Shot Cross-Lingual Transfer in Language Models,A Pool of Monolingual Byte-level Language Models
+FinQuestEval,FinQA,Question-Answering over Financial Reports,A Dataset of Numerical Reasoning over Financial Data
+BERT-SBERT,Sentence-BERT,BERT Network for Sentence Embeddings,Sentence Embeddings using Siamese BERT-Networks
+JADE,Sakura,an incorrect example retrieval system for Japanese language learners,Large-scale Incorrect Example Retrieval System for Learners of Japanese as a Second Language
+MTBench,CASMACAT,"a Modular, Web-based Translation Workbench",A Computer-assisted Translation Workbench
+hunSpell,Hunmorph,a Spell Toolkit for Orthographic Words,Open Source Word Analysis
+JU-Evora,Cambridge,Parser Evaluation using Textual Entailment,Parser Evaluation Using Textual Entailment by Grammatical Relation Comparison
+MandarinBERT,MVP-BERT,Improving Chinese PLM Pre-training via Chinese Word Segmentation,Multi-Vocab Pre-training for Chinese BERT
+GKE,GAKE,Graph Aware Knowledge Embedding,Graph Aware Knowledge Embedding
+DeSePtion,MindNet,Acquiring and Structuring Semantic Information from Text,acquiring and structuring semantic information from text
+BERT Authorship,BertAA,Fine-tuning BERT for Authorship Attribution,BERT fine-tuning for Authorship Attribution
+WikiCoREM,WikiCREM,A Large-Scale Pronoun Resolution Dataset,A Large Unsupervised Corpus for Coreference Resolution
+Prosody,ProPOSEL,a Prosody and PoS Lexicon,a human-oriented prosody and PoS English lexicon for machine-learning and NLP
+MDSWriter,PRIMERA,Multi-Document Representation with Multi-Document Representation,Pyramid-based Masked Sentence Pre-training for Multi-document Summarization
+UCR-Ranking,BUCA,Ranking Graphs into Reasoning Questions,A Binary Classification Approach to Unsupervised Commonsense Question Answering
+Tell-Explainable,RANCC,Explainable Model for NLP Text Classification,Rationalizing Neural Networks via Concept Clustering
+ERATK,ERRANT,an Error Annotation Toolkit,Assessing and Improving Grammatical Error Type Classification
+PseudoRef,SUPERT,Measuring Pseudo Reference Summary for Unsupervised Multi-Document Summarization,Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization
+HISM,DISARM,Detecting Hurtful Memes with Named Entity Recognition and Person Identification,Detecting the Victims Targeted by Harmful Memes
+TDC,TDDC,A Timely Diverse Documents Corpus,Timely Disclosure Documents Corpus
+HELP,DYLE,Joint Extractive Long-input Summarization,Dynamic Latent Extraction for Abstractive Long-Input Summarization
+BAMULUS,Summarization,Automatic Generation of Literatures by Probabilistic Rules,(1) Using MMR for Diversity- Based Reranking and (2) Evaluating Summaries
+Self-Attention,ReCoSa,Self-Attention for Dialogue Generation,Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation
+TELIDA,TaxFree,A Tool for Taxonomy Visualisation and Automatic Taxonomy Enrichment,a Visualization Tool for Candidate-free Taxonomy Enrichment
+WLV,MiniExperts,Semantic Textual Similarity based on Linguistically Motivated Features,An SVM Approach for Measuring Semantic Textual Similarity
+SummTitling,SUMAT,an Online Subtitle Translation Service for Nine European Languages,Data Collection and Parallel Corpus Compilation for Machine Translation of Subtitles
+Djangology,Callisto,an annotation tool for textual tasks,A Configurable Annotation Workbench
+FBK-SAT,ECNU,Sentiment Analysis on Twitter,Multi-level Sentiment Analysis on Twitter Using Traditional Linguistic Features and Word Embedding Features
+TMILLS,TeamHCMUS,Disorder Identification Using Dependency Trees,Analysis of Clinical Text
+MINERAL,TAKELAB,Disorder Mention Extraction and Normalization in Clinical Text,Medical Information Extraction and Linking with MINERAL
+DiMLex,DiMLex,A lexicon of discourse markers for text generation and understanding,A Lexicon of Discourse Markers for Text Generation and Understanding
+KIS,UIUC,Knowledge Intensive Approach to Automatic Classification of Relations,A Knowledge-rich Approach to Identifying Semantic Relations between Nominals
+CIDER,CIEMPIESS,A Spanish Corpus of Investigación del Posgrado de Ingenier,A New Open-Sourced Mexican Spanish Radio Corpus
+EuropaPAC,ParaCrawl,Web-Scale Parallel Corpora for Official European Languages,Web-scale parallel corpora for the languages of the EU
+ADAM,NewYeS,A Corpus of Analyzing Differences between Languages,A Corpus of New Year&#39;s Speeches with a Comparative Analysis
+PP-T,Subformer,A Pre-Trained Model for Parameter-Shared Reduction in Transformers,Exploring Weight Sharing for Parameter Efficiency in Generative Transformers
+ferretStop,VisuaLLM,a Python library for interactive visualization of common tasks in natural language generation,Easy Web-based Visualization for Neural Language Generation
+SHAKKIL,SMARTies,A Morphologically Rich Language for Arabic Sentiment Analysis,Sentiment Models for Arabic Target entities
+IGS,Inter-GPS,Interpretable Geometry Problem Solver via Visual Reasoning,Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning
+TinyBERT,NewsBERT,Distilling PLMs for Efficient and Effective News intelligence,Distilling Pre-trained Language Model for Intelligent News Application
+SinoLINGuistics,SLING,Benchmarking Chinese Language Models,Sino Linguistic Evaluation of Large Language Models
+VisualSEM,VisualSem,Multi-modal Retrieval for Knowledge Graph,a high-quality knowledge graph for vision and language
+MathAheads,SIGHT,A Dataset of Math lecture transcripts and annotated dataset,A Large Annotated Dataset on Student Insights Gathered from Higher Education Transcripts
+GANDA,GraDA,Generative Data Augmentation for Commonsense Reasoning,Graph Generative Data Augmentation for Commonsense Reasoning
+TWS,ImageTTR,Type Theory with Records for Visual Question Answering,Grounding Type Theory with Records in Image Classification for Visual Question Answering
+HeidelTimeBank,LCC-TE,Hybrid Extraction of Temporal Relations,A Hybrid Approach to Temporal Relation Identification in News Text
+BERTWIT,FloDusTA,A Dataset for Arabic Event Detection,"Saudi Tweets Dataset for Flood, Dust Storm, and Traffic Accident Events"
+,SMHD,Self-Reported Mental Health Diagnoses Dataset,a Large-Scale Resource for Exploring Online Language Usage for Multiple Mental Health Conditions
+GLATEA,Ruler,Large-Scale Labeling Rules for Data Programming,Data Programming by Demonstration for Document Labeling
+AugMeT,AugVic,Data Augmentation for Low-Resource NMT,Exploiting BiText Vicinity for Low-Resource NMT
+DramaSumm,CREATIVESUMM,A Shared Task of Summrizing Documents in Political Texts,Shared Task on Automatic Summarization for Creative Writing
+DoCNI,DocNLI,A Large-Scale Dataset for Document-Level Natural Language Inference,A Large-scale Dataset for Document-level Natural Language Inference
+CLARIN,DISCOSQA,A Pipeline for Solving Complex Natural Language Queries,A Knowledge Base Question Answering System for Space Debris based on Program Induction
+FBK-HLT,ROB,Exploiting Semantic Similarity Features for Paraphrase Recognition in Twitter,Using Semantic Meaning to Recognize Paraphrases
+BAMHE,MY-AKKHARA,A Method for Inputing Burmese Texts,A Romanization-based Burmese (Myanmar) Input Method
+FBK-HLT,WarwickDCS,Combining Lexical and Token Features for Sentiment Identification,From Phrase-Based to Target-Specific Sentiment Recognition
+EAGER,ArgFuse,Extracting Efficient Document-Level Event-Annotated Information Aggregation and Argument Extraction,A Weakly-Supervised Framework for Document-Level Event Argument Aggregation
+PLOLE,PRAL,Pre-trained Role Alternating Language Model for Task-oriented Dialog Pre-training,A Tailored Pre-Training Model for Task-Oriented Dialog Generation
+IndicHunter,Varta,A Large-Scale Dataset for Headline Generation in Indic Languages,A Large-Scale Headline-Generation Dataset for Indic Languages
+PENTATRON,NNE,"A Fine-grained, Neural Named Entity Dataset",A Dataset for Nested Named Entity Recognition in English Newswire
+BUIB,BULBasaa,A Controlled Phonetic Transcription Corpus,A Bilingual Basaa-French Speech Corpus for the Evaluation of Language Documentation Tools
+ARBMT,AfroMT,A Reproducible Machine Translation Benchmark for African Languages,Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages
+SIDE,Spontal,a corpus of spontaneous Swedish Dialogues,"A Swedish Spontaneous Dialogue Corpus of Audio, Video and Motion Capture"
+CARE,CAN-GRU,Recognition of Emotions in Dialogues,a Hierarchical Model for Emotion Recognition in Dialogue
+HontBit,BanglaBait,A Dataset of Bangla clickbait titles in Bangla,Semi-Supervised Adversarial Approach for Clickbait Detection on Bangla Clickbait Dataset
+StyLex,StylePTB,A Benchmark for Controllable Text Style Transfer,A Compositional Benchmark for Fine-grained Controllable Text Style Transfer
+VLUE,Lexi,Pre-trained Vision and Language Model for UUI Representations,Self-Supervised Learning of the UI Language
+SJTULTLAB,UNPMC,Automatic Extraction of Keyphrases from Scientific Articles,Naive Approach to Extract Keyphrases from Scientific Articles
+PlotWriter,PlotMachines,Generating Coherent Narratives with Plot State Tracking,Outline-Conditioned Generation with Dynamic Plot State Tracking
+BECOR,Foreebank,a Treebank of English and French Technical forum Content,Syntactic Analysis of Customer Support Forums
+FLATE,FATE,A FrameNet-Annotated Textual Entailment Corpus,a FrameNet-Annotated Corpus for Textual Entailment
+Poly-Enc,Uni-Encoder,Predicting a Paradigm for Dialogue Systems,A Fast and Accurate Response Selection Paradigm for Generation-Based Dialogue Systems
+QRE,PathQG,Question Generation as Query Representation Learning,Neural Question Generation from Facts
+ArMWE,AlphaMWE-Arabic,Arabic Multiword Expressions Parallel Corpus,Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations
+Transition-hopQA,UHop,A Transition-based Search Framework for Knowledge-Based Question Answering,An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering
+POLITICAL,Petals,A Platform for Inference and Fine-tuning of Large Models,Collaborative Inference and Fine-tuning of Large Models
+CLEX,CLex,A color-emotion-concept association lexicon,"A Lexicon for Exploring Color, Concept and Emotion Associations in Language"
+PASTA,TANet,Pre-trained Language Model for Abstractive Conversational Summarization,Thread-Aware Pretraining for Abstractive Conversational Summarization
+DialAttachment,DiactTOD,Generating End-to-End Dialogue Act Representations,Learning Generalizable Latent Dialogue Acts for Controllable Task-Oriented Dialogue Systems
+INDRA,Indra,a framework for word embedding/distributional semantics,A Word Embedding and Semantic Relatedness Server
+NLNDE,SCAI,A Neural Machine Learning System for Drugdrug Relation Extraction,Extracting drug-drug interactions using a rich feature vector
+PP-Align,PMI-Align,Joint Entity and Point-wise Mutual Information for Word Alignment,Word Alignment With Point-Wise Mutual Information Without Requiring Parallel Training Data
+AdversarialText,SemAttack,Generating Adversarial Text via Semantic Perturbation,Natural Textual Attacks via Different Semantic Spaces
+QuechuaNet,WordNet-QU,Adding Semantic Resources to a Lexical Database,Development of a Lexical Database for Quechua Varieties
+ConSEnt,ConSERT,Contrastive Framework for Self-supervised Sentence Representation Transfer,A Contrastive Framework for Self-Supervised Sentence Representation Transfer
+AWATIF,ArbTE,A Word-Level Relationship based on Diacritics,Arabic Textual Entailment
+,KESA,SentiAware Auxiliary Tasks for Sentiment Aware Post-trained Language Models,A Knowledge Enhanced Approach To Sentiment Analysis
+MIMO,MSMO,Multimodal Summarization with Multimodal Output,Multimodal Summarization with Multimodal Output
+SpeakerWCT,WeCanTalk,a Hong Kong Speaker Recognition Corpus,"A New Multi-language, Multi-modal Resource for Speaker Recognition"
+SUM-Eval,QARLA,Probabilistic Framework for Summaries Evaluation,A Framework for the Evaluation of Text Summarization Systems
+InState Update,DUDE,Developing Spoken Dialogue Systems Using Grammatical Framework,"A Dialogue and Understanding Development Environment, Mapping Business Process Models to Information State Update Dialogue Systems"
+TaggingCSE,DeepCx,Tagging Causal Language in English,A transition-based approach for shallow semantic parsing with complex constructional triggers
+TreeParsing,Peking,Transition-based and Graph-based Parsing for Semantic Dependency Parsing,Profiling Syntactic Tree Parsing Techniques for Semantic Graph Parsing
+LinTyp,ParCourE,an Online Tool to Explore Linguistic Corpora,A Parallel Corpus Explorer for a Massively Multilingual Corpus
+BERT-Lexicon,DyLex,A Plug-in Embedding Approach for Sequence Labeling,Incorporating Dynamic Lexicons into BERT for Sequence Labeling
+STAT,STAT,A Tool for Aligning and Analyzing Phonological Comparisons of Human Speech,Speech Transcription Analysis Tool
+ProLexexex,Prolexbase,a Free Resource for Relational Lexical Database of Prop Name,a Multilingual Relational Lexical Database of Proper Names
+SparseEA,LightEA,A Neural-Free Entity Alignment Framework,"A Scalable, Robust, and Interpretable Entity Alignment Framework via Three-view Label Propagation"
+VisMatch,VisualSparta,Fast Text-to-Image Retrieval with Sparse Transformer Matching,An Embarrassingly Simple Approach to Large-scale Text-to-Image Search with Weighted Bag-of-words
+SDAM,DropMix,A saliency map informed textual data Augmentation and regularization framework for overcome Overfitting in text learning,A Textual Data Augmentation Combining Dropout with Mixup
+TeMerge,TEAM,Taxonomy Expansion with Attach and Merge,A multitask learning based Taxonomy Expansion approach for Attach and Merge
+MTL-BERT,MMFT-BERT,Multimodal Fusion with BERT for Visual Question Answering,Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering
+AdapterFusion,AdapterDrop,Reducing Complexity in Transformers for Inference,On the Efficiency of Adapters in Transformers
+BilingualMT,GREAT,a Toolkit for Grammar Learning from Bilingual Data,A Finite-State Machine Translation Toolkit Implementing a Grammatical Inference Approach for Transducer Inference (GIATI)
+KMPT,KECP,Knowledge Enhanced Contrastive Prompt-tuning for Few-Shot Machine Reading Comprehension,Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering
+SequencePrediction,SimpleMTOD,Sequence Prediction for Multimodal Task-oriented Dialogues,A Simple Language Model for Multimodal Task-Oriented Dialogue with Symbolic Scene Representation
+CTR-AdText,CREATER,Generating Ad Texts with Contrastive Learning,CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning
+GLUEQA,NumGLUE,A Benchmark for Evaluating Arithmetic Reasoning in Text,A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks
+DeSiNo,Yes-Yes-Yes,A Donation-Based Peer Review Data Collection System,Proactive Data Collection for ACL Rolling Review and Beyond
+BART,GraphDialog,A Recurrent Cellular Architecture for Joint Task-oriented Dialogue,Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems
+GCN-Eval,DynaEval,A Unified Automatic Evaluation Framework for Dialogues,Unifying Turn and Dialogue Level Evaluation
+SEETIB,WTIMIT,Wideband Mobile Phoneticy via Adaptive Multirate Architecture,The TIMIT Speech Corpus Transmitted Over The 3G AMR Wideband Mobile Network
+NATSNATS,LeafNATS,A Toolkit for Sequence-to-Sequence Models for Neural Abstractive Summarization,An Open-Source Toolkit and Live Demo System for Neural Abstractive Text Summarization
+SLATE,DeCLUTR,Deep Contrastive Learning for Unsupervised Textual Representations,Deep Contrastive Learning for Unsupervised Textual Representations
+Deepfix,Deepfix,statistical post-editing for statistical machine translation,Statistical Post-editing of Statistical Machine Translation Using Deep Syntactic Analysis
+MEAN,UniTRec,Multi-level Contrastiveness for Text-based Recommendation,A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation
+RelREA,PatternRank,A Semi-Supervised Graph-based Algorithm for Relation Extraction,Jointly Ranking Patterns and Extractions for Relation Extraction Using Graph-Based Algorithms
+EDAPI,HILDIF,An Explanatory Debugging Pipeline,Interactive Debugging of NLI Models Using Influence Functions
+MEAN,MetaXL,Meta Learning for Extreme Low-Resource Languages,Meta Representation Transformation for Low-resource Cross-lingual Learning
+MEAN,LEA,Meta-Learning for Few-Shot Text Classification,Meta Knowledge-Driven Self-Attentive Document Embedding for Few-Shot Text Classification
+SLICERO,DERE,Declarative specification and compilation of template-based information extraction,A Task and Domain-Independent Slot Filling Framework for Declarative Relation Extraction
+DiffusText,DeTexD,A Benchmark Dataset for Detecting Delicate Text,A Benchmark Dataset for Delicate Text Detection
+PromptStopiler,AutoPrompt,Automatically Generated Prompts for Automatically Learned Language Models,Eliciting Knowledge from Language Models with Automatically Generated Prompts
+TweetNLP,TweeNLP,One-stop portal for NLP,A Twitter Exploration Portal for Natural Language Processing
+AutoParser,StructVAE,an Auto-Encoding Model for Semi-Supervised Semantic Parsing,Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing
+BAM,DOC,A deep learning approach to open-world classification,Deep Open Classification of Text Documents
+TransAhead,TransAhead,A Computer-Assisted Translation and Writing Assistant,A Writing Assistant for CAT and CALL
+MaTrEx,MATREX,The MT System for WMT 2008,The DCU MT System for WMT 2009
+PERASIL,EmoPars,A Dataset of Persian Emotions,A Collection of 30K Emotion-Annotated Persian Social Media Texts
+MathAligner,STAR,Natural Language Premise Selection for Mathematical Text Representation,Cross-modal [STA]tement [R]epresentation for selecting relevant mathematical premises
+SYGMA,Sensala,Semantic Interpretation of Natural Language,a Dynamic Semantics System for Natural Language Processing
+R-Pair,R-grams,Data-driven Segmentation with Re-Pair and Byte Pair Encoding-techniques,Unsupervised Learning of Semantic Units in Natural Language
+Auto-Tuning,Marian,"Combining teacher-student training, auto-tuning and other techniques for WNMT 2018 Shared Task",Cost-effective High-Quality Neural Machine Translation in C&#43;&#43;
+TransinS,TransIns,Reinforcing Markup into Documents,Document Translation with Markup Reinsertion
+DiscourseTBLSTM,DSNDM,A Neural Network for Text Pair Categorization,Deep Siamese Neural Discourse Model with Attention for Text Pairs Categorization and Ranking
+TransNMT,NMTScore,Ranking Translation-based Similarity Measures,A Multilingual Analysis of Translation-based Text Similarity Measures
+StanceDebias,SSR,Stance Detection As Task Knowledge,Utilizing Simplified Stance Reasoning Process for Robust Stance Detection
+EASYM,EASY-M,Evaluating Summaries in Multiple Languages,Evaluation System for Multilingual Summarizers
+FBK-Tracking 2,DORIC,"A Benchmark for Zero-Shot, Cross-Domain, Intent-Set Induction",Domain Robust Fine-Tuning for Open Intent Clustering through Dependency Parsing
+Infere,CoSaTa,an Inferencing-based Solver for Question Answering,A Constraint Satisfaction Solver and Interpreted Language for Semi-Structured Tables of Sentences
+MEEEEEE,MEE,A Multilingual Event Extraction Dataset,A Novel Multilingual Event Extraction Dataset
+QnaQA,AnswerQuest,Question Answering and Question Generation,A System for Generating Question-Answer Items from Multi-Paragraph Documents
+OdinDBS,LexiDB,"A Tool for storing, managing and querying corpus data",Patterns &amp; Methods for Corpus Linguistic Database Management
+SAIS,HEADS,Sequence-Prediction Modeling for Document Summarization,Headline Generation as Sequence Prediction Using an Abstract Feature-Rich Space
+NOAH,ERICA,A Dialogue System for the Id-19 Pandemic,An Empathetic Android Companion for Covid-19 Quarantine
+SPDV,SCDV,Sparse Document Vector,Sparse Composite Document Vectors using soft clustering over distributional representations
+TopIE,TIE,Topological Information Enhanced Model for Structural Reading Comprehension,Topological Information Enhanced Structural Reading Comprehension on Web Pages
+GRAPH,GREENER,Graph Neural Networks for Profiling News Media,Graph Neural Networks for News Media Profiling
+hrkD,HRKD,Hierarchical Relational Knowledge Distillation for Pre-trained Language Models,Hierarchical Relational Knowledge Distillation for Cross-domain Language Model Compression
+AuxCQR,CQR-SQL,Auxiliary Conversational Question Reformulation for Multi-turn SQL Parsing,Conversational Question Reformulation Enhanced Context-Dependent Text-to-SQL Parsers
+PseudoLabel,LOPS,Predicting Pseudo-labels for Weakly-Supervised Text Classification,Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification
+NewsCity,MediaMeter,Detecting and Tracking Extending Topics in the US Online News Media,A Global Monitor for Online News Coverage
+FactOIE,AnnIE,Fact-oriented Open Information Extraction Benchmarks,An Annotation Platform for Constructing Complete Open Information Extraction Benchmark
+XtremeCLWSD,LIMSI,Cross-Lingual Word Sense Disambiguation with Word Sense Representation,Cross-lingual Word Sense Disambiguation using Translation Sense Clustering
+RDG-ORG,ORGAN,an Observation-guided Radiology Report Generation Framework,Observation-Guided Radiology Report Generation via Tree Reasoning
+LAPPS Grid,AskMe,Query and Retrieval Engine for Covid-19 Literature,A LAPPS Grid-based NLP Query and Retrieval System for Covid-19 Literature
+ABSAPrompt,LEGO-ABSA,A Multi-task Framework for Aspect-based Sentiment Analysis,A Prompt-based Task Assemblable Unified Generative Framework for Multi-task Aspect-based Sentiment Analysis
+XLSum,XL-Sum,A Large-Scale Multilingual Dataset for Abstractive Summarization,Large-Scale Multilingual Abstractive Summarization for 44 Languages
+S-Means,CONDUCT,A Database of S-Meansive GEMNETS,An Expressive Conducting Gesture Dataset for Sound Control
+RACE,DuQM,A Large-Scale Chinese Question Matching Dataset,A Chinese Dataset of Linguistically Perturbed Natural Questions for Evaluating the Robustness of Question Matching Models
+RIRI,LIMSI,Semantic Textual Similarity Learning with Random Indexing,Learning Semantic Similarity by Selecting Random Word Subsets
+FLUE,FSUIE,A Fuzzy Span Universal Information Extraction Framework,A Novel Fuzzy Span Mechanism for Universal Information Extraction
+MeetingAnnotator,ALIGNMEET,"A Tool for Meeting Annotation, Alignment, and Evaluation","A Comprehensive Tool for Meeting Annotation, Alignment, and Evaluation"
+MANTLP,N-LTP,A Multi-task Chinese NLP Toolkit,An Open-source Neural Language Technology Platform for Chinese
+ZS-RTE,RelationPrompt,Generating Synthetic Relation Types for Zero-Shot Relation Triplet Extraction,Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction
+AirTraveler,ATC-ANNO,A Semantic Tool for Air traffic controllers,Semantic Annotation for Air Traffic Control with Assistive Auto-Annotation
+LLAMA,LSLlama,Generative Large Language Models for Lexical Simplification,Fine-Tuned LLaMA for Lexical Simplification
+LexAL,LIHLA,a Lexical Aligner with Probabilistic Lexicons,Shared Task System Description
+BVAT-SPA,Spa,Parse Adjustment for Dependency Parsing,On the Sparsity of Virtual Adversarial Training for Dependency Parsing
+USF,USF,Supervised Machine Learning for Aspect Term Extraction and Aspect Term Extraction,Chunking for Aspect-term Identification &amp; Polarity Classification
+ArbEval,ALUE,The Arabic Language Un-derstanding Evaluation Benchmark,Arabic Language Understanding Evaluation
+IG-EMO,EmojiGAN,an Image-to-Moji Architecture,learning emojis distributions with a generative model
+BAM,ULISSE,an unsupervised Linguistically-driven algorithm for parsing,an Unsupervised Algorithm for Detecting Reliable Dependency Parses
+IndoWordNet,IndoUKC,A Multilingual Dictionary of Indian Languages,A Concept-Centered Indian Multilingual Lexical Resource
+CoAttention,CAT-probing,A Probing Method to Interpret CodePTMs,A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure
+MEMEtube,MemeTube,a search-based demonstration system for capturing sentiments from microblog messages,A Sentiment-based Audiovisual System for Analyzing and Displaying Microblog Messages
+LCNet,Longtonotes,A Corpus of Coreference-Annotated Documents,OntoNotes with Longer Coreference Chains
+SARAR,SAPPHIRE,Simple Aligner for Phrase Alignment with Hierarchical Representation,Simple Aligner for Phrasal Paraphrase with Hierarchical Representation
+PythonParser,UniParse,A Toolkit for Graph-based Parsing,A universal graph-based parsing toolkit
+ACEBank,I-CAB,an Italian Content AnnotationBank,the Italian Content Annotation Bank
+WikiAnno,WikiWoods,A Pipeline Pipeline for Rich Syntacto-Semantic Annotations for English Wikipedia,Syntacto-Semantic Annotation for English Wikipedia
+LAANN,LEAN-LIFE,Label-Annotated Labels for Sequence Labeling and Classification,A Label-Efficient Annotation Framework Towards Learning from Explanation
+TTT,LabelTool,A Tool for the Management of Text Extraction,a localization application for devices with restricted display areas
+USAR,uFACT,Towards a better Data-to-Text Generation Model,Unfaithful Alien-Corpora Training for Semantically Consistent Data-to-Text Generation
+ChineseOBS,IsOBS,A Chinese Authoring System for Oracle BERT,An Information System for Oracle Bone Script
+MaltParser,TuLiPA,A Parsing Architecture for Dependency-Sensitive Parsing,A syntax-semantics parsing environment for mildly context-sensitive formalisms
+MemoMem,ABC,Memory-Organizing Transformers with Bounded-memory Control,Attention with Bounded-memory Control
+EuropaEfication,MICE,Towards a middleware layer of EC&#39;s Connecting Europe Facility,a middleware layer for MT
+NLTK,NLTK,The Natural Language Toolkit,The Natural Language Toolkit
+LifeED,LED,A Dataset of Fine-grained Life Event Extraction from Conversational Data,A Dataset for Life Event Extraction from Dialogs
+Sentibase,Lingmotif,"A Sentiment Lexicon-based, Linguistically-motivated, Sentiment Analysis",Sentiment Analysis for the Digital Humanities
+Arabizi,TArC,Integrated and Independent Tools for Developing a Tunisian Arabic Texts,"Tunisian Arabish Corpus, First complete release"
+ClaimRank,CRST,Claim-oriented Ranking for Claim Retrieval,a Claim Retrieval System in Twitter
+BART,MultiVec,A Toolkit for Querying Representations for Text at Different Levels,a Multilingual and Multilevel Representation Learning Toolkit for NLP
+MPC,PLATO-XL,Multi-Party Aware Pre-training for Dialogue Generation,Exploring the Large-scale Pre-training of Dialogue Generation
+TransTYP,TransType,an Embedding Ma-chine Translation System,a Computer-Aided Translation Typing System
+TweetMT,FooTweets,A Parallel Corpus of Tweets,A Bilingual Parallel Corpus of World Cup Tweets
+FBK-HLT,UTU,Semantic Text Classification Using SVM and CRF Classifiers,Adapting Biomedical Event Extraction System to Disorder Attribute Detection
+CoDescil,HAConvGNN,Hierarchical Attention for Computational notebooks code documentation generation,Hierarchical Attention Based Convolutional Graph Neural Network for Code Documentation Generation in Jupyter Notebooks
+BERTOLD,GLUE-X,A Benchmark for Evaluating OOD Robustness in NLP Models,Evaluating Natural Language Understanding Models from an Out-of-Distribution Generalization Perspective
+AlignSent,OneAligner,An Alignment Model for Sentence Retrieval,Zero-shot Cross-lingual Transfer with One Rich-Resource Language Pair for Low-Resource Sentence Retrieval
+RnG-KBQA,RNG-KBQA,Rank-and-Generate Approach for Knowledge Graph Question Answering,Generation Augmented Iterative Ranking for Knowledge Base Question Answering
+SpanNLP,iobes,an Easy-to-Use Library for Parsing andconverting,Library for Span Level Processing
+TransTS,WeTS,A Benchmark Dataset for Translation Suggestion,A Benchmark for Translation Suggestion
+Docria,TAGPRIME,A Sequence Tagging Model for Relational Structure Extraction,A Unified Framework for Relational Structure Extraction
+FreeTextQA,CU,A Computational Approach to Assess student free-text Answers,Computational Assessment of Short Free Text Answers - A Tool for Evaluating Students&#39; Understanding
+SETS,SSSD,Semantic Similarity Stance Detection on Twitter,Leveraging Pre-trained Models and Semantic Search for Semi-supervised Stance Detection
+ChatEval,ChatEval,A Toolbox for the Systematic Evaluation of Chatbots,A Tool for Chatbot Evaluation
+TAG,TagNText,A Corpus of Tags and Textual Descriptions,A parallel corpus for the induction of resource-specific non-taxonomical relations from tagged images
+MaskedText,LayoutMask,Multi-modal Pre-training for Visually-rich Document Understanding,Enhance Text-Layout Interaction in Multi-modal Pre-training for Document Understanding
+WordGuest,WordGuess,a game with-a-purpose vocabulary training,"Using Associations for Guessing, Learning and Exploring Related Words"
+TIME,TOME,A Two-stage Model-based Retrieval Approach,A Two-stage Approach for Model-based Retrieval
+TCNN,TOI-CNN,Text-Interest Convolutional Neural Network for Element Tagging on Insurance Policies,a Solution of Information Extraction on Chinese Insurance Policy
+DiscourseParser,DiscoGeM,A Crowdsourced Corpus of Political Discourse Relations,A Crowdsourced Corpus of Genre-Mixed Implicit Discourse Relations
+GeogeEZSwitch,GeezSwitch,A Language Identification Dataset for Typologically andphylogenetically Related Low-Resourced Languages,Language Identification in Typologically Related Low-resourced East African Languages
+Language-VISion,LAVIS,a deep learning library for LAnguage-VISion Research and Applications,A One-stop Library for Language-Vision Intelligence
+FlowFlow,CorefDiffs,Co-referential and Differential Flow Management for Document-grounded Dialog Systems,Co-referential and Differential Knowledge Flow in Document Grounded Conversations
+FALTE,VizSeq,A Visual Analysis Toolkit for Instance-Level and Corpus-Level System Evaluation on Text Generation,a visual analysis toolkit for text generation tasks
+DiffusLM,SSD-LM,Diffusion-based Language Model for Controlled Text Generation,Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control
+ECNU,DCU,Aspect level Prediction Approach to Accuracy Prediction,Aspect-based Polarity Classification for SemEval Task 4
+MLD-CSE,ML-LMCL,Mutual Learning and Large-Degin Contrastive Learning for Spoken Language Understanding,Mutual Learning and Large-Margin Contrastive Learning for Improving ASR Robustness in Spoken Language Understanding
+TransChinese,YanFa,a system for EnglishChinese translation exercises with intelligent feedback,An Online Automatic Scoring and Intelligent Feedback System of Student English-Chinese Translation
+TechText Classification,TechTexC,Combining Neural Network and BiLSTM for Technical Text Classification,Classification of Technical Texts using Convolution and Bidirectional Long Short Term Memory Network
+FBK-HLT,Swiss-Chocolate,Combining different levels of linguistic modeling for predicting  message-level sentiment,Combining Flipout Regularization and Random Forests with Artificially Built Subsystems to Boost Text-Classification for Sentiment
+TVPlotSumm,SummScreen,A Dataset of TV Plot Transcripts and Captions,A Dataset for Abstractive Screenplay Summarization
+PAQ,FRAQUE,Question Answering System for Factoid Questions in the Public administration Domain,a FRAme-based QUEstion-answering system for the Public Administration domain
+WAST,TaPas,Question Answering Over Tabular Data,Weakly Supervised Table Parsing via Pre-training
+HiAP,HCL-TAT,Hybrid Contrastive Learning with a Task-Adaptive Threshold for Few-Shot Event Detection,A Hybrid Contrastive Learning Method for Few-shot Event Detection with Task-Adaptive Threshold
+SEQZEGED,MUTANT,Evaluating Out-of-Distribution in Visual Question Answering,A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering
+IndoNet,NusaX,Resources for Indonesian Natural Language Processing,Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages
+BERT-BART,EasyNLP,An Easy Natural Language Processing Framework,A Comprehensive and Easy-to-use Toolkit for Natural Language Processing
+IrE,IrEne,Predicting Energy Consumption of Transformer Models,Interpretable Energy Prediction for Transformers
+BECOLD,SciPar,A parallel corpus of bachelories and doctoral dissertations,A Collection of Parallel Corpora from Scientific Abstracts
+DirectPredict,DirecTL,an online discriminative sequence prediction model,a Language Independent Approach to Transliteration
+TIARA,LiteVL,Adapting BERT to a Video-Text Model,Efficient Video-Language Learning with Enhanced Spatial-Temporal Modeling
+KnowMeT,LearnDA,Knowledge Guided Event Causality Identification,Learnable Knowledge-Guided Data Augmentation for Event Causality Identification
+SimplifySciTasks,SimpleScience,Lexical Simplification for Scientific Terminology,Lexical Simplification of Scientific Terminology
+XLM-WSD,PU-BCD,an Optimal Cluster Model for Word Sense Disambiguation,Exponential Family Models for the Coarse- and Fine-Grained All-Words Tasks
+TAG,TSDG,A Content-Aware Model with Two-stage Decoding for Generative Models,Content-aware Neural Response Generation with Two-stage Decoding Process
+CookingTasks,GRILLBot,A Task-oriented Spoken Voice Assistant,A multi-modal conversational agent for complex real-world tasks
+UKP-SQuARE,UKP-SQUARE,An Extensible Online Platform for Question Answering,An Online Platform for Question Answering Research
+Sentibase,NRC-Canada,Sentiment Detection in Twitter,Building the State-of-the-Art in Sentiment Analysis of Tweets
+BANG-FANG,InfoSurgeon,A Benchmark for Detecting Fake News,Cross-Media Fine-grained Information Consistency Checking for Fake News Detection
+MIE,MIE,Medical Information Extractor for Medical Dialogues,A Medical Information Extractor towards Medical Dialogues
+DISTeet,KSC-PaL,A peer learning agent based on cross-initiative,A Peer Learning Agent that Encourages Students to take the Initiative
+R-FipsParser,FipsRomanian,a Romanian Parser,Towards a Romanian Version of the Fips Syntactic Parser
+ECNU,UTDMet,Semantic Classification of Argument Coercions,Combining WordNet and Corpus Data for Argument Coercion Detection
+CLCL,HuCurl,Exploring curricula in a curriculum space,Human-induced Curriculum Discovery
+COVID-Fact,PANACEA,A COVID-19 Misinformation Detection System,An Automated Misinformation Detection System on COVID-19
+MandarinCSC,PTCSpell,Pre-Training for Chinese Spelling Correction,Pre-trained Corrector Based on Character Shape and Pinyin for Chinese Spelling Correction
+MaskedCSE,InfoCSE,Masked Contrastive Learning for Unsupervised Sentence Embeddings,Information-aggregated Contrastive Learning of Sentence Embeddings
+TempEval,IsoScore,Quantifying Isotropy in Contextualized Embeddings,Measuring the Uniformity of Embedding Space Utilization
+EfficientNLU,FastFormers,Efficient Inference-Time performance for Transformer-based Models,Highly Efficient Transformer Models for Natural Language Understanding
+WASP-WSD,CFILT,Word Sense Disambiguation on a Specific Domain,Resource Conscious Approaches for All-Words Domain Specific WSD
+TempAttribution,GlobEnc,Encoder Block for Explainable Token Attribution Analysis,Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers
+SHAPED,PhotoChat,a Dialogue Dataset for Image-Text Modeling,A Human-Human Dialogue Dataset With Photo Sharing Behavior For Joint Image-Text Modeling
+SUMMT,StreamHover,A Framework for Annotating and Summmarizing Livestream Transcripts,Livestream Transcript Summarization and Annotation
+GenFlow,FlowSeq,Generative Flow Model for Non-Autoregressive Sequence Generation,Non-Autoregressive Conditional Sequence Generation with Generative Flow
+ALATOP,TextPro-AL,Active Learning for Text Processing,An Active Learning Platform for Flexible and Efficient Production of Training Data for NLP Tasks
+ParsQueryBank,AutoQA,Parsing Questions on Databases,From Databases To QA Semantic Parsers With Only Synthetic Training Data
+BioMedQA,MLEC-QA,A Large-Scale Chinese Biomedical Question Answering Dataset,A Chinese Multi-Choice Biomedical Question Answering Dataset
+PPUN-WSD,DLUT,People Clustering on a Budget,Chinese Personal Name Disambiguation with Rich Features
+TAIL,TILM,Topical Influence Language Model for Text Forecasting,Neural Language Models with Evolving Topical Influence
+GhONN,GhoSt-NN,A Gold Standard for German Noun-noun Compound Compounds,A Representative Gold Standard of German Noun-Noun Compounds
+DiCLT,FreeTransfer-X,Distilling Knowledge from Pre-trained Language Models,Safe and Label-Free Cross-Lingual Transfer from Off-the-Shelf Models
+MetaKD,RW-KD,Adaptive Meta-Larner for Knowledge Distillation,Sample-wise Loss Terms Re-Weighting for Knowledge Distillation
+Docria,CHARM,Zero-Shot Learning of Pre-trained Models,Inferring Personal Attributes from Conversations
+SPARE,BiSECT,A Large-Scale Dataset for Split and Rephrase,Learning to Split and Rephrase Sentences with Bitexts
+ERAE,RelDiff,An Entity-Relation-Entity Embedding Approach for Sentiment Classification,Enriching Knowledge Graph Relation Representations for Sensitivity Classification
+RCR-CCR,ReCo,A Reliable Causal Chain Reasoning Framework,Reliable Causal Chain Reasoning via Structural Causal Recurrent Neural Networks
+METEXT,HyperLex,A Data Set and Evaluation Resource for Semantic Category membership,A Large-Scale Evaluation of Graded Lexical Entailment
+ESA,ESRA,Explainable Scientific Research Assistant,Explainable Scientific Research Assistant
+AraStat,AraNet,an Arabic Social Media Processing Tool,A Deep Learning Toolkit for Arabic Social Media
+QAST,QSTS,A Question-Sensitive Text Similarity Measure for Question Generation,A Question-Sensitive Text Similarity Measure for Question Generation
+DiaLexex,Tharwa,an electronic three-way lexicon for Egyptian Arabic,A Large Scale Dialectal Arabic - Standard Arabic - English Lexicon
+AdapterFusion,MAD-X,Efficient Cross-Lingual Transfer,An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer
+MEAN,Edge,MEANing Knowledge Graph Enrichment and Embeddings,Enriching Knowledge Graph Embeddings with External Text
+TellMeans,LRRA,A Neural-Symbolic Framework for Visual Question Answering,A Transparent Neural-Symbolic Reasoning Framework for Real-World Visual Question Answering
+SLUPP,SLURP,Large-Scale Spoken Language Understanding,A Spoken Language Understanding Resource Package
+PoliStance,ConStance,A General Model for Reasoning about Political Stances,Modeling Annotation Contexts to Improve Stance Classification
+BIGPA,TED,Large-Scale Data-Aware Transformer-based Unsupervised Abstractive Summarization,A Pretrained Unsupervised Summarization Model with Theme Modeling and Denoising
+CU-COMM,ARTA,A Corpus of Politeness for Dialogue Systems,Collection and Classification of Ambiguous Requests and Thoughtful Actions
+USZEGED,YSC-DSAA,Disambiguating Sentiment Ambiguous adjectives,An Approach to Disambiguate Sentiment Ambiguous Adjectives Based on SAAOL
+CICERO,GPLSIUA,Cross-Document Event Coreference Resolution Using Semantic Arguments,Combining Temporal Information and Topic Modeling for Cross-Document Event Ordering
+BEN-EL,BENNERD,A Biomedical Entity Linking System for Corona BERT 2019,A Neural Named Entity Linking System for COVID-19
+ReviewPertSenti,DeepSentiPeer,A Neural Architecture for Peer Reviewing,Harnessing Sentiment in Review Texts to Recommend Peer Review Decisions
+BRUJA,SWAT,Using English-Spanish Dictionary for Cross-Lingual Lexical Substitution,"Cross-Lingual Lexical Substitution using Local Context Matching, Bilingual Dictionaries and Machine Translation"
+MUSTA,M-SENA,A Platform for Multimodal Sentiment Analysis,An Integrated Platform for Multimodal Sentiment Analysis
+federAttachment,Dim-Krum,A Probabilistic Model for Defending NLP Backdoors,Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation
+BERT-RE,PARE,BERT-based Prediction for Distantly Supervised Relation Extraction,A Simple and Strong Baseline for Monolingual and Multilingual Distantly Supervised Relation Extraction
+MasakhaLM,SERENGETI,Massively Multilingual Language Model for African Language Understanding,Massively Multilingual Language Models for Africa
+MEAN,UDapter,Multilingual Parsing via Contextual Adapters,Typology-based Language Adapters for Multilingual Dependency Parsing and Sequence Labeling
+QA-AZ,MuLMS-AZ,A Dataset of Linguistic Zone Classification for Materials Science,An Argumentative Zoning Dataset for the Materials Science Domain
+AdjectEval,AET,an Adjective Exploration Tool,Web-based Adjective Exploration Tool for German
+CLEAR,AFET,Embeddings for Named Entity Typing,Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label Embedding
+Bleu,X-Score,an Automatic MT Evaluation Metric,Automatic Evaluation of Machine Translation Grammaticality
+punGen,Pun-GAN,Generative Adversarial Network for Pun Generation,Generative Adversarial Network for Pun Generation
+EASE,EmoMent,Emotion-Annotated mental health corpus,An Emotion Annotated Mental Health Corpus from Two South Asian Countries
+StackStruct,TriS,Stack Decoding for Statistical Sentence Simplification,A Statistical Sentence Simplifier with Log-linear Models and Margin-based Discriminative Training
+HASP-HASP,GWU-HASP,Hybrid Arabic Spelling and Punctuation Corrector,Hybrid Arabic Spelling and Punctuation Corrector
+GAP-CSC,SpellBERT,Pretrained Model with Graph-based Features for Chinese Spelling Check,A Lightweight Pretrained Model for Chinese Spelling Check
+Self-CR,SSCR,Self-Supervised Visual Reasoning for Iterative Language-Based Image Editing,Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning
+HintedMT,INMT,an Interactive Machine Translation Interface,Interactive Neural Machine Translation Prediction
+CMCC,KdConv,A Large-Scale Chinese Knowledge-driven Conversation Dataset,A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation
+WIM-DIM,Neural-DINF,A Neural Network for Document Influence Modeling,A Neural Network based Framework for Measuring Document Influence
+HiBias,HIBRIDS,Incorporating Hierarchical Biases for Hierarchical Question-Summary Generation,Attention with Hierarchical Biases for Structure-aware Long Document Summarization
+MuTUAL,WikiMatrix,Multilingual Sentence Embeddings for Automatic Extraction of Parallel Sentences,Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia
+MaskedBERT,RetroMAE,Masked Pre-Training for Dense Retrieval,Pre-Training Retrieval-oriented Language Models Via Masked Auto-Encoder
+MEAN,DTS,Multilingual and Translation Services for NLU,A Delivery System for Translation and Translation-Related Services
+SOCiFillmore,SocioFillmore,a multilingual tool for capturing event-level LOME,A Tool for Discovering Perspectives
+ArguminStruct,Argumentation,A Structure-based Model for Argumentive Writing,"Content, Structure, and Relationship with Essay Quality"
+ConanDic,ConanDoyle-neg,Conan Doyle annotated corpus of negation information,Annotation of negation cues and their scope in Conan Doyle stories
+OPAL,OntoEA,an ontology-guided Entity Alignment Method,Ontology-guided Entity Alignment via Joint Knowledge Graph Embedding
+ExtExplainer,D-REX,A Framework for Explanation Quality and Relation Extraction,Dialogue Relation Extraction with Explanations
+,Cogent,CPS-based Dialogue System shell,A Generic Dialogue System Shell Based on a Collaborative Problem Solving Model
+RAMAT,RAMP,Retrieval and Attribute-Marking Enhanced Prompting for Few-Shot Machine Translation,Retrieval and Attribute-Marking Enhanced Prompting for Attribute-Controlled Translation
+EmpirSumm,GUMSum,A Dataset of Empirical-Based Summaries,Multi-Genre Data and Evaluation for English Abstractive Summarization
+SParwman,Strawman,a builder entry for Sentiment Analysis,An Ensemble of Deep Bag-of-Ngrams for Sentiment Analysis
+SentiSense,ReNew,A Semi-Supervised Framework for Sentiment Lexicon Generation,A Semi-Supervised Framework for Generating Domain-Specific Lexicons and Sentiment Analysis
+TransTab,TableGPT,Few-shot Table-to-Text Generation with Text Transformation,Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching
+WikiQA,Nerdle,Large-scale Question-Answering on Wikipedia,Topic-Specific Question Answering Using Wikia Seeds
+BrainStruct,VROAV,A Visually Represented Word Representations Classification System,Using Iconicity to Visually Represent Abstract Verbs
+Dynabench,Dynatask,Natural Language Processing with Dynamicbench,A Framework for Creating Dynamic AI Benchmark Tasks
+PSHAI,PSSAT,Perturbation-Robust Slot Filling via Semantic Structure Knowledge Transfer,A Perturbed Semantic Structure Awareness Transferring Method for Perturbation-Robust Slot Filling
+GPT-REF,GRIT,Generative Transformer-based Encoder-Decoder for Document-Level Role-Filler Entity Extraction,Generative Role-filler Transformers for Document-level Event Entity Extraction
+CRUISE,CrudeOilNews,A Corpus of English Oil News for Event Extraction,An Annotated Crude Oil News Corpus for Event Extraction
+TEXT,GuideLink,Integrating an Annotation Framework for the Management of Annotation Guidelines,A Corpus Annotation System that Integrates the Management of Annotation Guidelines
+US election-tweets,TDParse,A Corpus of UK election Tweets for Target-specific Sentiment Recognition,Multi-target-specific sentiment recognition on Twitter
+HECLIP,Hate-CLIPper,Modeling Cross-modal Interactions for Detecting Hateful Memes,Multimodal Hateful Meme Classification based on Cross-modal Interaction of CLIP Features
+BERT-KD,AUTOSUMM,Large Language Models for Extractive and Abstractive Text Summarization,Automatic Model Creation for Text Summarization
+MEAN,SummaReranker,Mixture-of-Experts for Abstractive Summarization,A Multi-Task Mixture-of-Experts Re-ranking Framework for Abstractive Summarization
+KG-to-Text,ENT-DESC,Generating Knowledge Graphs for Knowledge-to-Text Generation,Entity Description Generation by Exploring Knowledge Graph
+ChineseC SpellingCheck,PHMOSpell,Chinese Spelling Checker with Multi-modal Information,Phonological and Morphological Knowledge Guided Chinese Spelling Check
+BAMNET,Ontoterminology,A Terminology ontology based on anontology,How to unify terminology and ontology into a single paradigm
+ClaimCheck,ProoFVer,Natural Logic-based Inferences for Fact Verification,Natural Logic Theorem Proving for Fact Verification
+LEXSEMT,LexSemTm,State-of-the-Art Learning of Sense Graphs,A Semantic Dataset Based on All-words Unsupervised Sense Distribution Learning
+REPT,REPT,A Retrieval-based Pre-Training Approach to Improve Pre-Training of Language Models,Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training
+ParaQA,ComQA,A Large Dataset for Factoid Question Answering,A Community-sourced Dataset for Complex Factoid Question Answering with Paraphrase Clusters
+TinyParser,SPINDLE,an efficient multimodal type-logical grammar parser,Spinning Raw Text into Lambda Terms with Graph Attention
+NTU-CSE,NTULM,Context-Augmented Social Media Text Representations,Enriching Social Media Text Representations with Non-Textual Units
+CoLAM,CLAM,The Computational Linguistics Application Mediator,Quickly deploy NLP command-line tools on the web
+HiMEA,HMEAE,Hierarchical Modular Event Argument Extraction,Hierarchical Modular Event Argument Extraction
+KB-CRS,CR-Walker,Towards Graph-structured Reasoning for Conversational Recommendation,Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation
+LM-SID,SIDLR,Slot and Intent Detection for Low-Resource Language Variety,Slot and Intent Detection Models for Low-Resource Language Varieties
+SumEval,SummEval,Benchmarking Automatic Evaluation Metrics for Text Summarization,Re-evaluating Summarization Evaluation
+ACCURAT,PEXACC,Distributed Parallel Sentence and Phrase Extractor,A Parallel Sentence Mining Algorithm from Comparable Corpora
+Stretch,Stretch-VST,Enabling Long Story for Visual Story Storying,Getting Flexible With Visual Stories
+HiURE,HieRec,Hierarchical User Interest Recommendation with Hierarchical User Interest Modeling,Hierarchical User Interest Modeling for Personalized News Recommendation
+PAL,FitChat,A Voice-based Chatbot for Developing Physical Well-being,Conversational AI for Active Ageing
+MATLAB,VSEM,a library for visual semantics,An open library for visual semantics representation
+Referee,VQD,Visual Grounding on a Query,Visual Query Detection In Natural Scenes
+,Yawat,Continual Visualization of Word- and Phrase-Level Alignments,Yet Another Word Alignment Tool
+ContextNMT,MTCue,Context-based Neural Machine Translation,Learning Zero-Shot Control of Extra-Textual Attributes by Leveraging Unstructured Context in Neural Machine Translation
+TP-Athene,TwoWingOS,Two-Wording Optimization for Claim Entailment,A Two-Wing Optimization Strategy for Evidential Claim Verification
+BTS-Hansard,BU-TTS,a Bilingual Text-to-Speech Synthesis Corpus for Welsh and English,"An Open-Source, Bilingual Welsh-English, Text-to-Speech Corpus"
+TellSumm,SQuALITY,A Dataset of Fast Question-Focused Summaries,Building a Long-Document Summarization Dataset the Hard Way
+YeonHoengnok,HistRED,A Bilingual Relation Extraction Dataset from Yeon Haengnok,A Historical Document-Level Relation Extraction Dataset
+FewFrmt-Task,FRMT,A Dataset and Benchmark for Few-shot Regime-Aware Machine Translation,A Benchmark for Few-Shot Region-Aware Machine Translation
+IITP,UWB,Supervised Machine Learning for Aspect-based Sentiment Analysis,Machine Learning Approach to Aspect-Based Sentiment Analysis
+BERT-BERT,BERTGen,Generative BERT for Zero-Shot Language Generation,Multi-task Generation through BERT
+LegalBERT,LEGAL-BERT,BERT for Legal domains,The Muppets straight out of Law School
+KnowMeT,EventWiki,A Knowledge Base Resource of Major Events,A Knowledge Base of Major Events
+PAIR,Nuggeteer,an Automatic Evaluation Tool for Nugget-based Tasks,Automatic Nugget-Based Evaluation using Descriptions and Judgements
+FBK-HLT,MELB-MKB,Lexical Substitution Using a Web-looked Approach,Lexical Substitution system based on Relatives in Context
+BASH,BanglaBook,A Large-Scale Dataset of Bangla Book Reviews,A Large-scale Bangla Dataset for Sentiment Analysis from Book Reviews
+Linguistic Metadata,LIME,a Vocab vocabulary for linguistic metadata,Towards a Metadata Module for Ontolex
+Babel,NERD,A Framework for Unified Named Entity Extraction,A Framework for Unifying Named Entity Recognition and Disambiguation Extraction Tools
+SynChat,AutoConv,Synthetic Conversation Generation using Large Language Models,Automatically Generating Information-seeking Conversations with Large Language Models
+MUSUM,MemSum,Multi-Step Extraction Summarizer,Extractive Summarization of Long Documents Using Multi-Step Episodic Markov Decision Processes
+VPQA,CRIPP-VQA,A Question Answering Dataset on Implicit Physical Properties of Objects in motion,Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering
+BART,PairSpanBERT,Bridging Resolution via Span-based Pre-trained Model,An Enhanced Language Model for Bridging Resolution
+FALTE,Erratum,Fusing an error into n and m subscripts into SVDKL,Measuring and Improving Consistency in Pretrained Language Models
+XL-NLG,ZmBART,An Unsupervised Cross-Lingual Language Generation Framework,An Unsupervised Cross-lingual Transfer Framework for Language Generation
+DPOCO,DISTANT-CTO,Massive Distantly Supervised PICO Entity Extraction,"A Zero Cost, Distantly Supervised Approach to Improve Low-Resource Entity Extraction Using Clinical Trials Literature"
+XL Regularizer,CLAR,Cross-Lingual Argument Regularizer,A Cross-Lingual Argument Regularizer for Semantic Role Labeling
+USEE,UnClE,Unique and Class Embeddings,Explicitly Leveraging Semantic Similarity to Reduce the Parameters of Word Embeddings
+Etruscan-English,Larth,A Dataset for Machine Translation from Etruscan to English,Dataset and Machine Translation for Etruscan
+Probing,KenLM,an efficient language model Querying engine,Faster and Smaller Language Model Queries
+AG-GIN,AGIF,Adaptive Graph Interactive Framework for Joint Multiple Intent Detection and Slot Filling,An Adaptive Graph-Interactive Framework for Joint Multiple Intent Detection and Slot Filling
+UWM,SemantiKLUE,A Supervised Approach to Measuring Semantic Similarity,Robust Semantic Similarity at Multiple Levels Using Maximum Weight Matching
+HerBERT,KLEJ,A Large-Scale Benchmark for Polish Language Understanding,Comprehensive Benchmark for Polish Language Understanding
+VVG,FACTUAL,Towards Faithful and Robust Scene Graph Parsing,A Benchmark for Faithful and Consistent Textual Scene Graph Parsing
+newsHunter,RaFoLa,an English Corpus Annotated for Multi-Class and Multi-label forced labour Detection,A Rationale-Annotated Corpus for Detecting Indicators of Forced Labour
+Pharaoh,MISTRAL,a Phrase-based Rank-Based MT System,a lattice translation system for IWSLT 2007
+ConTextCSE,SimCSE,A simple contrastive learning framework for Sentence Embeddings,Simple Contrastive Learning of Sentence Embeddings
+BERT-OIE,MinIE,Large-Scale Open Information Extraction,Minimizing Facts in Open Information Extraction
+CP-Sentiment,DiaASQ,Detecting Aspect-based Sentiment quadruple in Dialogues,A Benchmark of Conversational Aspect-based Sentiment Quadruple Analysis
+SEPP,Senti-LSSVM,Extracting instances of Sentiment-oriented Relations from User-generated Web Documents,Sentiment-Oriented Multi-Relation Extraction with Latent Structural SVM
+Patton,REES,an end-to-end relation and event extraction system,A Large-Scale Relation and Event Extraction System
+zenodo,TaPaCo,a large-scale paraphrase corpus from the Tatoeba database,A Corpus of Sentential Paraphrases for 73 Languages
+SarGraphs,Sar-graphs,A Knowledge Resource for Semantic Relation Extraction,A Linked Linguistic Knowledge Resource Connecting Facts with Language
+DBConv,AMUSED,Integrating Knowledge Graph Embeddings for Query-Responsable Conversational Agent,A Multi-Stream Vector Representation Method for Use in Natural Dialogue
+AdapterFuse,FAD-X,Adapting Adapters for Low-Resource Languages,Fusing Adapters for Cross-lingual Transfer to Low-Resource Languages
+LexicalCleaner,MULLE,a tool for language learning,A grammar-based Latin language learning tool to supplement the classroom setting
+BLEU,NoDeeLe,a deep learning schema for MT evaluation,A Novel Deep Learning Schema for Evaluating Neural Machine Translation Systems
+ConTexT,ECG-QALM,Generating Synthetic Text for Named Entity Recognition,Entity-Controlled Synthetic Text Generation using Contextual Q&amp;A for NER
+KETOD,KETOD,Knowledge-Enriched Task-Oriented Dialogue,Knowledge-Enriched Task-Oriented Dialogue
+MorpStruct,Morph-fitting,Morphologically Rich Embeddings for Improved Distributional Vector Space,Fine-Tuning Word Vector Spaces with Simple Language-Specific Rules
+RelSQL,RASAT,A Transformer Seq2Seq Architecture with Relation-Aware Self-Attention,Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL
+Vietools,Panel,Detecting and Correcting Spelling of Vietnamese Texts,"Good Spelling of Vietnamese Texts, One Aspect of Computational Linguistics in Vietnam"
+SCAREQA,DREAM,A Context-Aware Question Answering Model,Improving Situational QA by First Elaborating the Situation
+RED,EmoNet,A very large dataset for fine-grained emotion detection,Fine-Grained Emotion Detection with Gated Recurrent Neural Networks
+VGIM,CGIM,Cycle Guided Interactive Learning Model for Task-oriented Dialog,A Cycle Guided Interactive Learning Model for Consistency Identification in Task-oriented Dialogue
+MGranC,MGDoc,Multi-modal Pre-training for Document Understanding,Pre-training with Multi-granular Hierarchy for Document Image Understanding
+BADVISER,LagunTest,an NLP Application to Adapting Materials for Educational Reading Comprehension,A NLP Based Application to Enhance Reading Comprehension
+RankEval,RankME,A Cost-Effective Method for Ranking NLG Systems,Reliable Human Ratings for Natural Language Generation
+Culinary,Chefbot,Commonsense Enhanced Dialogue Generation for Cooking,A Novel Framework for the Generation of Commonsense-enhanced Responses for Task-based Dialogue Systems
+BanAML,Pluto,Financial Crises Detection through Negative News,A Deep Learning Based Watchdog for Anti Money Laundering
+DIVHSK,DivHSK,Generating Diverse Headlines in News Articles,Diverse Headline Generation using Self-Attention based Keyword Selection
+BERT,RoCBert,A Pretrained Chinese BERT for Adversarial Textual Attacks,Robust Chinese Bert with Multimodal Contrastive Pretraining
+GCNPC,Glocal,Global Ranking for Graph Convolutional Networks,Incorporating Global Information in Local Convolution for Keyphrase Extraction
+VocabApt,HashFormers,Memory Efficient Pre-trained Transformers,Towards Vocabulary-independent Pre-trained Transformers
+GrawlCQ,Glossa,A Web-based Corpus Query System,"a Multilingual, Multimodal, Configurable User Interface"
+SINAI,SAP-RI,A Sentiment Analysis System for SemEval 2014 Task 9,Twitter Sentiment Analysis in Two Days
+BETC,BSTC,a Large-scale Chinese-English Speech Translation Corpus,A Large-Scale Chinese-English Speech Translation Dataset
+Referee,SpaceRefNet,A Neural Network for Identifying Referring Expressions in the Spatial Context,a neural approach to spatial reference resolution in a real city environment
+UNAL-NLP,WIT,Random walks based approach to disambiguating people in web search results,Web People Search Disambiguation using Random Walks
+AdaptShare,AdapterHub,Sharing Task-specific Models with Adapters,A Framework for Adapting Transformers
+TellSumm,ExSum,A Mathematical Framework for Measuring Model Understanding,From Local Explanations to Model Understanding
+ReAdingTab,INFOTABS,A Dataset of Tabularated Tabulated Text,Inference on Tables as Semi-structured Data
+CaMeT,TransRouter,A Calibrated decision Kernel for MT Evaluation,a decision support tool for translation managers
+RewriteKQ,BERTese,A Paraphrase Query for Knowledge Extraction,Learning to Speak to BERT
+ELBERT,EstBERT,a pretrained transformer-based language-specific BERT model for Estonian,A Pretrained Language-Specific BERT for Estonian
+SelfExppansion,TEMP,Self-Supervised Taxonomy Expansion,Taxonomy Expansion with Dynamic Margin Loss through Taxonomy-Paths
+MEANKD,Distiller,Multi-stage Distillation of Intermediate Representations,A Systematic Study of Model Distillation Methods in Natural Language Processing
+PLMInfer,TR-BERT,Dynamic Token reduction for Efficient PLM Inference,Dynamic Token Reduction for Accelerating BERT Inference
+Dict-WSI,Duluth,Disambiguating Word Senses in Contexts,Word Sense Discrimination in the Service of Lexicography
+PPDB,PrepNet,Preposition Syntactic and Semantic Behaviors,a Multilingual Lexical Description of Prepositions
+SJTULTLAB,SZTERGAK,Supervised Learning of Keyphrase Extraction from Scientific Publications,Feature Engineering for Keyphrase Extraction
+PEPZ,Sensible,Post-Editor Z using Memory Indexing,L2 Translation Assistance by Emulating the Manual Post-Editing Process
+ProCRE,MatchPrompt,A Prompt-based Framework for Unlabelled Relation Clustering,Prompt-based Open Relation Extraction with Semantic Consistency Guided Clustering
+SHAPED,MELODI,Semantic Similarity of Words and Phrases,Semantic Similarity of Words and Compositional Phrases using Latent Vector Weighting
+EASE,EchoGen,Generating Evaluativeness for Radiology Reports,Generating Conclusions from Echocardiogram Notes
+EASE,EaSe,a simple diagnostic tool for Visual Question Answering,A Diagnostic Tool for VQA based on Answer Diversity
+MEANING,Clavius,Multi-Treaded Parsing on Unification Grammars,Bi-Directional Parsing for Generic Multimodal Interaction
+AMBERT,PORT,"A Fast, Comprehensive Metric for MT Evaluation",a Precision-Order-Recall MT Evaluation Metric for Tuning
+HITL-Emp,GreaseVision,A Collaborative Human-in-the-Loop Learning Framework for Improving Digital Harms,Rewriting the Rules of the Interface
+XMETA,X-METRA-ADA,Cross-Lingual Meta-Transfer Learning for NLU,Cross-lingual Meta-Transfer learning Adaptation to Natural Language Understanding and Question Answering
+C-MEAN,M-CNER,A Chinese Named Entity Corpus from Three Domains,A Corpus for Chinese Named Entity Recognition in Multi-Domains
+BART,AfroLM,Pre-trained Language Model for African Languages,A Self-Active Learning-based Multilingual Pretrained Language Model for 23 African Languages
+SumGen,Falsesum,Generating Dataset for Recognizing Factual Inconsistencies in Summaries,Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization
+GloVe Representations Learning,Mittens,Improving Representations Learning with GPT Data,an Extension of GloVe for Learning Domain-Specialized Representations
+TopicPriors,Sprite,Topic Hierarchies and Author Perspective,Generalizing Topic Models with Structured Priors
+Self-DefendIE,IMBERT,Self-defend Against Backdoor Attacks,Making BERT Immune to Insertion-based Backdoor Attacks
+MWEExp,mwetoolkit,an MWE Extraction Toolkit,a Framework for Multiword Expression Identification
+DIE,SystemT,A Declarative System for Information Extraction,A Declarative Information Extraction System
+MathAssistant,LILA,A Unified Benchmark for Mathematical Reasoning,A Unified Benchmark for Mathematical Reasoning
+FBK-HLT,UIR-PKU,A Twitter-OpinMiner System for Sentiment Analysis,Twitter-OpinMiner System for Sentiment Analysis in Twitter at SemEval 2015
+TransEnglish,Brahmi-Net,Transliteration and Script Conversion for Indian Languages,A transliteration and script conversion system for languages of the Indian subcontinent
+BEL-EL,CHOLAN,A Modular Approach to Targeted Entity Linking over Knowledge Bases,A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata
+SanskritMT,Vaakkriti,A Grammar Analyzer for Sanskrit Language,Sanskrit Tokenizer
+GLexClean,ASSIST,Using Semantic Annotations to Provide Contextual Examples for Words,Automated Semantic Assistance for Translators
+GAF,GrAF,The Graph Annotation Format,A Graph-based Format for Linguistic Annotations
+USZEGED,HIT-WSD,WASP Using the Web as Sense tagged Corpus,Using Search Engine for Multilingual Chinese-English Lexical Sample Task
+NonFactSumm,NonFactS,Generating Non-Factual Summaries,NonFactual Summary Generation for Factuality Evaluation in Document Summarization
+Docria,COMBO,"NLP techniques for accurate part-of-speech tagging, lemmatisation and dependency parsing",State-of-the-Art Morphosyntactic Analysis
+J-MeT,CTM,an Japanese-English translation aid system based on free-text data,An Example-Based Translation Aid System
+QuestEval,FEQA,Asking Questions Questions to Evaluate the Faithfulness of Neural Abstractiveness,A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization
+BERT-Eval,AnaLog,BERT-based Entailment for Pre-trained Language Models,Testing Analytical and Deductive Logic Learnability in Language Models
+HUCAE,HUME,Human Semantic Evaluation Metric for UCCA-based MT Evaluation,Human UCCA-Based Evaluation of Machine Translation
+arXivSumm,TSTR,Extractive Summaries for Scientific Abstracts,"Too Short to Represent, Summarize with Details! Intro-Guided Extended Summary Generation"
+SentiBERT,SentiLARE,Knowledge-Aware Language Representation for Sentiment Analysis,Sentiment-Aware Language Representation Learning with Linguistic Knowledge
+RuSignLex,TheRuSLan,a Russian Sign Language Interactive Database,Database of Russian Sign Language
+SPARSE,DisSim,Discourse-Aware Sentence Splitting for English and German,A Discourse-Aware Syntactic Text Simplification Framework for English and German
+PP-Chat,PAR,Generating Personalized Dialogues using Pre-determined Peoplea,Persona Aware Response in Conversational Systems
+PoliSe,POLY,Using a very large collection of monolingual language resources for binary relations,Mining Relational Paraphrases from Multilingual Sentences
+PreQuestQA,UNIFIEDQA,Pre-trained Model for Question Answering,Crossing Format Boundaries with a Single QA System
+CDLE,CDL,Curriculum Dual Learning for Emotion-Controllable Response Generation,Curriculum Dual Learning for Emotion-Controllable Response Generation
+DeMOGRAPHER,Demographer,a Tool for Predicting Gender,Extremely Simple Name Demographics
+SU-FMI,EuroSense,Large-Scale Parallel Corpus for Word Sense Disambiguation,Automatic Harvesting of Multilingual Sense Annotations from Parallel Text
+BERT-Text,SaFER,Efficient Fine-tuning for BERT for Text Classification,A Robust and Efficient Framework for Fine-tuning BERT-based Classifier with Noisy Labels
+AdaBERT,exBERT,Adapting BERT Pre-trained Models to Pre-trained Models,Extending Pre-trained Models with Domain-specific Vocabulary Under Constrained Training Resources
+ArabMADAMIRA,YAMAMA,Fast and Accurate Arabic Morphological Analyzer and Disambiguator,Yet Another Multi-Dialect Arabic Morphological Analyzer
+DAST,DaMSTF,Domain Adversarial Learning Enhanced Self-Training Framework for Domain Adaptation,Domain Adversarial Learning Enhanced Meta Self-Training for Domain Adaptation
+BART,ELMER,Efficient Pre-trained Language Models for Text Generation,A Non-Autoregressive Pre-trained Language Model for Efficient and Effective Text Generation
+UDTBBanks,UDWiki,An Online Environment for Bundling Linguistic Treebanks,guided creation and exploitation of UD treebanks
+ChunCache,ATA-Sem,Kernel Approaches for Semantic Textual Similarity,Chunk-based Determination of Semantic Text Similarity
+EfficientRank,EEL,Efficient Token-Factored Reranking for Text Generation,Efficiently Encoding Lattices for Reranking
+MEAN,XDailyDialog,A Multilingual Parallel Open-Domain Dialog Dataset,A Multilingual Parallel Dialogue Corpus
+SeqGEC,TemplateGEC,Using Seq2Edit and Seq2Seq Frameworks for Grammatical Error Correction,Improving Grammatical Error Correction with Detection Template
+DORE,DRCoVe,Enhanced Word Representation Using Relational Contexts,An Augmented Word Representation Approach using Distributional and Relational Context
+FairEval,FairLex,Benchmarking Fairness of Pre-trained Language Models,A Multilingual Benchmark for Evaluating Fairness in Legal Text Processing
+DVGNet,DAGN,Discourse-Aware Graph Network for Solving QA,Discourse-Aware Graph Network for Logical Reasoning
+KwikBART,NaturalLI,A Natural Sense Inference System for Infering Common Sense Facts,Natural Logic Inference for Common Sense Reasoning
+APPDIA,BCause,A Tool for Defining Argumentative and Cognitive Phenomenon for Discussion Forums,Reducing group bias and promoting cohesive discussion in online deliberation processes through a simple and engaging online deliberation tool
+Termout,Moz,a colloaborative translation system,Translation of Structured Terminology-Rich Text
+Alex,CLASP,Improving Low-Resource Semantic Parsing with Large Language Models,Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing
+KSACT,KOSAC,Korean Sentiment Analysis Corpus,A Full-Fledged Korean Sentiment Analysis Corpus
+PPPP,ConRPG,A Pipeline Approach for Paraphrase Generation,Paraphrase Generation using Contexts as Regularizer
+BEDIE,DeepGeneMD,Joint Entity and Relation Extraction for Gene BERT-Disease Knowledge Extraction,A Joint Deep Learning Model for Extracting Gene Mutation-Disease Knowledge from PubMed Literature
+PPDB,PHEE,a Dataset for Detecting Event Extraction from Drug Safety Reports,A Dataset for Pharmacovigilance Event Extraction from Text
+summEval,SacreROUGE,A library for summarization evaluation metrics,An Open-Source Library for Using and Developing Summarization Evaluation Metrics
+MVP,MvP,Multi-view Prompting for Aspect-based Sentiment Analysis,Multi-view Prompting Improves Aspect Sentiment Tuple Prediction
+M-BERT,AMBERT,A Multi-grained BERT Pre-trained Language Model,A Pre-trained Language Model with Multi-Grained Tokenization
+SZTE-NLP,sielers,Sentiment Analysis on Twitter,Feature Analysis and Polarity Classification of Expressions from Twitter and SMS Data
+UniKeyphrase,SGRank,A hybrid statistical-graphical algorithm for unsupervised keyphrase extraction,Combining Statistical and Graphical Methods to Improve the State of the Art in Unsupervised Keyphrase Extraction
+TP-TP,TPT,An Empirical Term Selection Method for Text Categorization,An Empirical Term Selection for Arabic Text Categorization
+MacroFact,Macro-Average,A simple Type-based MT Evaluation Metric,Rare Types Are Important Too
+CHE,VCWE,Chinese Word Embeddings via Skip-level Compositionality,Visual Character-Enhanced Word Embeddings
+DSS,RMSSinger,Realistic-Score based Singing Synthesis,Realistic-Music-Score based Singing Voice Synthesis
+ReasonBert,ReasonBERT,Pre-Training over Long-Range Relations,Pre-trained to Reason with Distant Supervision
+MTTK,CytonMT,an open-source neural machine translation toolkit,an Efficient Neural Machine Translation Open-source Toolkit Implemented in C&#43;&#43;
+BERTAB,HateBERT,BERT for Abusive Language Detection in English,Retraining BERT for Abusive Language Detection in English
+ArgU,GerCCT,A Corpus of German Tweets for Argument Mining,An Annotated Corpus for Mining Arguments in German Tweets on Climate Change
+LinguaStream,GutenTag,Making Sense of Linguistics in Texts,an NLP-driven Tool for Digital Humanities Research in the Project Gutenberg Corpus
+CICERO,CAT,Contextualized Conceptualization and Institation for Commonsense Reasoning,A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning
+DeClarEval,WISDOM,An Information Credibility Analysis System,A Web Information Credibility Analysis Systematic
+Sentemo,SentEMO,A Tool for Aspect-based Sentiment Analysis and Emotion Detection,A Multilingual Adaptive Platform for Aspect-based Sentiment and Emotion Analysis
+HITL-ML,HEIDL,Explainable Models for Human-in-the-Loop Machine Learning,Learning Linguistic Expressions with Deep Learning and Human-in-the-Loop
+PASSAL,PARSE,Predicting the Adversarial Saliency sision sarch,An Efficient Search Method for Black-box Adversarial Text Attacks
+WordWORDQA,SimQA,a Downstream Word-by-Word Question Answering Task,Detecting Simultaneous MT Errors through Word-by-Word Question Answering
+KosBi,KoSBI,A Social Bias Dataset for Korean Language Models,A Dataset for Mitigating Social Bias Risks Towards Safer Large Language Model Applications
+MEAN,TransAdv,Multi-Level Adversarial Learning and Knowledge Distillation for Zero-Resource Cross-Lingual Named Entity Recognition,A Translation-based Adversarial Learning Framework for Zero-Resource Cross-Lingual Named Entity Recognition
+NEMO,NICE,Neural Image Commenting with Empathy,Neural Image Commenting with Empathy
+BAMULUS,EHU-ALM,A 5-way Supervised System Based on Syntactic-Semantic Similarity Features,Similarity-Feature Based Approach for Student Response Analysis
+ConTextSarcastic,C-Net,A Contextual Sarcasm Classifier for IdiOn in conversations,Contextual Network for Sarcasm Detection
+FewShotRel,FewRel,A Few-Shot Relation Classification Dataset,A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation
+EasyLex,NyLLex,an annotated corpus of books for easy language texts,A Novel Resource of Swedish Words Annotated with Reading Proficiency Level
+Pro pronunciationCheck,MAT,a Tool for Pronunciation Error Detection in Spoken Data,a tool for L2 pronunciation errors annotation
+BAM,JU-USAAR,An English-English Domain Adaptive Machine Translation System,A Domain Adaptive MT System
+PhonMeT,SegBo,a database of borrowed phonological segment borrowing,A Database of Borrowed Sounds in the World&#39;s Languages
+P ZeroGen,ProGen,A Probabilistic Zero-Shot Dataset Generation Framework,Progressive Zero-shot Dataset Generation via In-context Feedback
+MirrorAligner,MirrorAlign,A Lightweight Unsupervised Word Alignment Model,A Super Lightweight Unsupervised Word Alignment Model via Cross-Lingual Contrastive Learning
+BERT-QA,PIE-QG,BERT-based Question-Answer Training Pairs,Paraphrased Information Extraction for Unsupervised Question Generation from Small Corpora
+AdvEval,Multi-VALUE,A Controllable Rule-based Translation System for Dialect Invariantness,A Framework for Cross-Dialectal English NLP
+MultiFANG,Fakeddit,A Large-Scale Multimodal Dataset for Fake News Detection,A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection
+Linguagrid,AnCora-UPF,"A Corpus of Spanish Annotated for Morphological, Syntax and Semantic Processing",A Multi-Level Annotation of Spanish
+KwikSumm,Klexikon,A Dataset for Joint Text Simplification and Summarization,A German Dataset for Joint Summarization and Simplification
+UINLUE,UINAUIL,A Benchmark for Italian Natural Language Understanding,A Unified Benchmark for Italian Natural Language Understanding
+MEAN,MuVER,Multi-View Entity Representations for Entity Retrieval,Improving First-Stage Entity Retrieval with Multi-View Entity Representations
+UserID,UserIdentifier,Few-Shot Personalization via Prepending an ID Type,Implicit User Representations for Simple and Effective Personalized Sentiment Analysis
+UScore,MAXSIM,an Automatic MT Evaluation Metric,A Maximum Similarity Metric for Machine Translation Evaluation
+PlmGAN,G-Tuning,Generative Adversarial Network for Pre-trained Language Model Fine-tuning,Improving Generalization of Pre-trained Language Models with Generative Adversarial Network
+QuestionGen,QGASP,"Question Generation by Lexical, Syntactic and Semantic Information",a Framework for Question Generation Based on Different Levels of Linguistic Information
+EmotionBank,EmoWOZ,Emotion Corpus of Task-oriented Dialogues,A Large-Scale Corpus and Labelling Scheme for Emotion Recognition in Task-Oriented Dialogue Systems
+SIME,ScAN,A Dataset of Suicide Attempt and Ideation Events,Suicide Attempt and Ideation Events Dataset
+CoreCoref,PreCo,A Large-scale Coreference Resolution Dataset,A Large-scale Dataset in Preschool Vocabulary for Coreference Resolution
+FBK-HLT,FBK-TR,Cross-Sentence Semantic Similarity,Applying SVM with Multiple Linguistic Features for Cross-Level Semantic Similarity
+Resper,ResPer,A Generalised Framework for Identifying Resuasive strategies in Partisan Negotiations,Computationally Modelling Resisting Strategies in Persuasive Conversations
+HENN,HENIN,Explainable Cyberbullying Detection via Heterogeneous Neural Interaction Networks,Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media
+Wordguessing,Tabouid,a Word-guessing Game Automatically Generated from Wikipedia,a Wikipedia-based word guessing game
+NL-Py,NLP-Cube,A Natural Language Processing Framework for PythOn,End-to-End Raw Text Processing With Neural Networks
+HeidelPLM,AlephBERT,A Large PLM for Hebrew,Language Model Pre-training and Evaluation from Sub-Word to Sentence Level
+FactEval,X-FACTOR,Fact-Aware Abstractive Summarization,A Cross-metric Evaluation of Factual Correctness in Abstractive Summarization
+MultiAE,MACRONYM,A Dataset for Multilingual and Multi-domain Acronym Extraction,A Large-Scale Dataset for Multilingual and Multi-Domain Acronym Extraction
+RINAI,RACAI,Word Sense Disambiguation on a Specific Domain,"Unsupervised WSD Experiments @ SemEval-2, Task 17"
+MEANNER,CharNER,a character-level tagger for named entity recognition,Character-Level Named Entity Recognition
+GenerativeR,ProofWriter,Generative Reasoning over Natural Language,"Generating Implications, Proofs, and Abductive Statements over Natural Language"
+K-MOR,OpenKorPOS,Korean Morphological Analyzer,Democratizing Korean Tokenization with Voting-Based Open Corpus Annotation
+BotsBlocks,WIDISBOT,Detecting and Analyzing Content from Bots,Widget to analyse disinformation and content spread by bots
+READECOR,SUCRE,a new software tool for coreference resolution,A Modular System for Coreference Resolution
+FilterCrawl,OpusFilter,A Flexible and Modular Toolbox for Filtering Parallel Corpora,A Configurable Parallel Corpus Filtering Toolbox
+SEEK,SafetyKit,A Tool for Examining the Safety of End-to-End Conversational AI,First Aid for Measuring Safety in Open-domain Conversational Systems
+Abbase,PLOD,A Large-Scale Dataset for Abbreviation Detection and Extraction,An Abbreviation Detection Dataset for Scientific Documents
+AdversarialText,CheckHARD,A Model for Detecting Adversarial Text,"Checking Hard Labels for Adversarial Text Detection, Prediction Correction, and Perturbed Word Suggestion"
+BUMPS,LongEval,Human eValuation of Long-form Summaries,Guidelines for Human Evaluation of Faithfulness in Long-form Summarization
+CIL-BERT,CLOWER,Contrastive Learning Over Word andcharactER Representations for Chinese Language Representations,A Pre-trained Language Model with Contrastive Learning over Word and Character Representations
+JUNLG-WSD,UCF-WS,Web Selectors Word Sense Disambiguation on a Specific Domain,Domain Word Sense Disambiguation Using Web Selectors
+EMLM,eMLM,Emotion Masked Language Modelling,A New Pre-training Objective for Emotion Related Tasks
+FlauBERT,CoFiF,A Large-Scale Multi-Document Corpus of French Reports,A Corpus of Financial Reports in French Language
+EventSumm,TWEETSUM,a Large-Scale Event-oriented Dataset for Social Summarization,Event oriented Social Summarization Dataset
+GSR-Action,CRAPES,Grounded Situation Recognition for Image Comprehension,Cross-modal Annotation Projection for Visual Semantic Role Labeling
+ASCEC,ASPEC,A Large-Scale Parallel Corpus of Scientific Paper Extraction,Asian Scientific Paper Excerpt Corpus
+HeidelTime,diaNED,A Time-aware Method for Named Entity Disambiguation,Time-Aware Named Entity Disambiguation for Diachronic Corpora
+DataNLG,enunlg,Data-to-Text Generation with Pre-Transformer Neural Models,a Python library for reproducible neural data-to-text experimentation
+AVAE,APo-VAE,Adversarial Poincare Variational Autoencoder for Text Generation,Text Generation in Hyperbolic Space
+WIT-ZEN,MDWOZ,a WIT-style Development Environment for Spoken Dialog Systems,A Wizard of Oz Environment for Dialog Systems Development
+XtremeVLP,KD-VLP,Efficient Multi-modal Pretraining for Vision-and-Language Pretraining,Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation
+DePpare,LM-CORE,Decoupling Linguistic Representations with External Knowledge,Language Models with Contextually Relevant External Knowledge
+SpanAligner,SpanAlign,Cross-Lingual Adaptation with Span Alignment,Efficient Sequence Tagging Annotation Projection into Translated Data applied to Cross-Lingual Opinion Mining
+GUMCoref,OntoGUM,a GUM-style Coreference Dataset,Evaluating Contextualized SOTA Coreference Resolution on 12 More Genres
+BAM,TRANX,a Transition-based Neural Semantic Parser,A Transition-based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation
+FBK-HBR,UNED,Combining MT Evaluation Measures,Improving Text Similarity Measures without Human Assessments
+AnswerSP,ASCM,Answer Space Clustered Prompt Learning for Few-Shot Text Classification,An Answer Space Clustered Prompting Method without Answer Engineering
+POS-Tagging,TransPOS,Supervised Tagging Schemes for Consolidating Datasets,Transformers for Consolidating Different POS Tagset Datasets
+Rainier,RICA,Robust Inference using Commonsense Axioms,Evaluating Robust Inference Capabilities Based on Commonsense Axioms
+CoVERT,Check-COVID,Fact-Checking Benchmark on COVID-19 Facts,Fact-Checking COVID-19 News Claims with Scientific Evidence
+HiQuAD,HITIQA,HighQuality Interactive Question Answering,Towards Analytical Question Answering
+EPiText,EDA,easy data Augmentation for text classification,Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks
+SpanCSE,SCL-RAI,Span-based Contrastive Learning for Named Entity Recognition,Span-based Contrastive Learning with Retrieval Augmented Inference for Unlabeled Entity Problem in NER
+BNL-TT,RegelSpraak,a Dutch Tax Administration CNL,a CNL for Executable Tax Rules Specification
+SAPRIF,SAP-RI,"A Constrained and Supervised Approach to Aspect Term Extraction, Categorization and Sentiment Analysis",A Constrained and Supervised Approach for Aspect-Based Sentiment Analysis
+PYCOT,PoliWAM,A Large-Scale User-generated Dataset for Indian Political Campaigning,An Exploration of a Large Scale Corpus of Political Discussions on WhatsApp Messenger
+FAST,FastBERT,Speed-tunable BERT with Adaptive Inference Time,a Self-distilling BERT with Adaptive Inference Time
+DiVE-Augmented,SalesBot,Generating Dialogues without HumanInteraction,Transitioning from Chit-Chat to Task-Oriented Dialogues
+InterAug,DoubleMix,Interpolation-based Data Augmentation for Text Classification,Simple Interpolation-Based Data Augmentation for Text Classification
+OSM-WORDNET,SENTIWORDNET,A Lexical Resource for Opinion Mining,A Publicly Available Lexical Resource for Opinion Mining
+SummSumm,CaseSummarizer,A Tool for Summmarizing Legal Documents,A System for Automated Summarization of Legal Texts
+BAM,ALLSH,Acquiring unlabelledeled data with a local sensitivity and hardness-aware acquisition function,Active Learning Guided by Local Sensitivity and Hardness
+KIGN,KagNet,Knowledge Aware Graph Network for Explainable Commonsense Reasoning,Knowledge-Aware Graph Networks for Commonsense Reasoning
+GraPAT,CCGweb,The CCG Treebank for Combinatory categorial grammar,a New Annotation Tool and a First Quadrilingual CCG Treebank
+CAN-NER,CAN-NER,A Convolutional Attention Network for Chinese Named Entity Recognition,Convolutional Attention Network for Chinese Named Entity Recognition
+BAM,PyVallex,"A Python-based System for presenting, Searching and Evaluating Machine-Readable Lexicon Data",A Processing System for Valency Lexicon Data
+ECCOX,Ecco,Explainable Transformer-based Language Models,An Open Source Library for the Explainability of Transformer Language Models
+RALI,SCROLLS,Natural Language Inference over Long Texts,Standardized CompaRison Over Long Language Sequences
+PET,PET,a standalone tool for assessing machine translation through post-editing,a Tool for Post-editing and Assessing Machine Translation
+CoT-R,SCOTT,Faithful Distillation of Large Language Models,Self-Consistent Chain-of-Thought Distillation
+SMEE,SMTCE,A Benchmark for Multilingual BERT-based Text Classification Evaluation,A Social Media Text Classification Evaluation Benchmark and BERTology Models for Vietnamese
+SpanQA,CMQA,Conditional MultipleSpanspan Chinese Question Answering,A Dataset of Conditional Question Answering with Multiple-Span Answers
+UWM,SEERLAB,Automatic Keyphrase Extraction Using DBLP Corpus,A System for Extracting Keyphrases from Scholarly Documents
+PLATO,SimulSpeech,An End-to-End Simultaneous Speech to Text Translation System,End-to-End Simultaneous Speech to Text Translation
+ALAPPI,ATLAS,A Graph Model for Annotating Linguistic Artifacts,A Flexible and Extensible Architecture for Linguistic Annotation
+DOP,DecOp,A Large-Scale Deception Detection Corpus,A Multilingual and Multi-domain Corpus For Detecting Deception In Typed Text
+SpanQA,AttenWalker,Large-Document Question Answering with Long-Document Dependency,Unsupervised Long-Document Question Answering via Attention-based Graph Walking
+UR-FANG,Verify,an Urdu Fake News Detection Model,Breakthrough accuracy in the Urdu fake news detection using Text classification
+BLCULex,ProPOSEL,Prosody and PoS Annotated Lexicon for Language Engineering,A Prosody and POS English Lexicon for Language Engineering
+EDIT-Distance,MultiFix,Detecting Erroneous Programs With Optimal Alignment,Learning to Repair Multiple Errors by Optimal Alignment Learning
+BBN-DB,Transcrigal,A Broadcast News Database,A Bilingual System for Automatic Indexing of Broadcast News
+ArbEngVec,EDRAK,an Automatically Generated Arabic Entity-Centric Resource,Entity-Centric Data Resource for Arabic Knowledge
+FinLingua,MultiFin,A Financial Language Processing Dataset,A Dataset for Multilingual Financial NLP
+SRCB,PersLEARN,Towards a better understanding of scientific perspectives,Research Training through the Lens of Perspective Cultivation
+ShareCellLTM,SC-LSTM,Shared-Cell Long-Short Term Memory,Learning Task-Specific Representations in Multi-Task Learning for Sequence Labeling
+TASAKI,TAKE,Topic Shift Aware Knowledge sElector for Knowledge-Grounded Dialogue Generation,Topic-shift Aware Knowledge sElection for Dialogue Generation
+DiVEXT,Taalportaal,towards a better understanding of the dynamics of Dutch and Frisian lexicology,an online grammar of Dutch and Frisian
+EULexSum,EUR-Lex-Sum,Cross-lingual Summaries of Legal Acts,A Multi- and Cross-lingual Dataset for Long-form Summarization in the Legal Domain
+DIAG,LEATHER,A Framework for Generating Text in Dialogue,A Framework for Learning to Generate Human-like Text in Dialogue
+MEAN,Docalog,Multi-Document Dialogues Shared Task,Multi-document Dialogue System using Transformer-based Span Retrieval
+TURAL,TArC,a Tunisian Arabic Corpus,Incrementally and Semi-Automatically Collecting a Tunisian Arabish Corpus
+NOAHQA,OPERA,A Notion-Pivoted Symbol Reasoning Framework,Operation-Pivoted Discrete Reasoning over Text
+CoGen,LFKQG,A Controlled Generation Framework for Question Generation over Knowledge Bases,A Controlled Generation Framework with Local Fine-tuning for Question Generation over Knowledge Bases
+TempEval,CU-TMP,Temporal Relation Identification as Pair-wise Classification,Temporal Relation Classification Using Syntactic and Semantic Features
+gaSMT,IRIS,statistical machine translation from English into Irish,English-Irish Machine Translation System
+StoryBank,PersonaBank,a corpus of personal narratives,A Corpus of Personal Narratives and Their Story Intention Graphs
+ESpnet,ESPnet-ST,Rapid Development of Speech-to-Speech Translation Systems,All-in-One Speech Translation Toolkit
+ReAug,MIReAD,Learning Representation Learning from Scientific Articles,Simple Method for Learning High-quality Representations from Scientific Documents
+TACREDRED,MultiTACRED,A Machine Translation Dataset of Typologically Diverse Languages for Relation Extraction,A Multilingual Version of the TAC Relation Extraction Dataset
+ContrastiveSumm,CoLo,Contrastive Learning based Re-Ranking Framework for One-stage Summarization,A Contrastive Learning Based Re-ranking Framework for One-Stage Summarization
+MTNLP,CNRC-TMT,Machine Translation for SemEval 2014 Task 4,Second Language Writing Assistant System Description
+GhostBERT,GhostBERT,Memory-Augmented Pre-trained Language Model,Generate More Features with Cheap Operations for BERT
+NLP-CORE,DeSoCoRe,Using Natural Language Processing Techniques to Detect Source Code Re-Use,Detecting Source Code Re-Use across Programming Languages
+BERT-RL,LAVA,Auxiliary Task for End-to-End Dialogue,Latent Action Spaces via Variational Auto-encoding for Dialogue Policy Optimization
+CounterPertEval,CRASS,A Data Set and Benchmark for Counterfactual Reasoning,A Novel Data Set and Benchmark to Test Counterfactual Reasoning of Large Language Models
+MEAN,Momresp,MultiAnnotated Labels and Annotators for Document Classification,A Bayesian Model for Multi-Annotator Document Labeling
+DomainAdapt,VarMAE,Domain-Adaptive Language Understanding,Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding
+DramaBank,StoryARG,A Dataset for Computational Argumentation,a corpus of narratives and personal experiences in argumentative texts
+NameDat,ParaNames,A Large-Scale Name Resource,A Massively Multilingual Entity Name Corpus
+SpatialNLI,SpaceNLI,A Probabilistic Dataset for Spatial Reasoning,Evaluating the Consistency of Predicting Inferences In Space
+IIE,PIE,A Dataset of Idiomatic Expressions,A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing
+CHEER,DEGREE,Data-efficient Event Extraction as Conditional Generation,A Data-Efficient Generation-Based Event Extraction Model
+LiveDialogues,LiveChat,A Large-Scale Chinese Dialogue Dataset,A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming
+GAN-GL,GLML,Generative Lexicon-based Annotation of Compositional Operations,Annotating Argument Selection and Coercion
+BAM,TMop,A Fully Unsupervised Method for Automatic TM Cleaning,a Tool for Unsupervised Translation Memory Cleaning
+BLASP,SPA,A Web-based Speech Analytics Platform,Web-based Platform for easy Access to Speech Processing Modules
+Soloist,Soloist,Few-Shot Task-oriented Dialog Systems with Transfer Learning and Machine Teaching,Building Task Bots at Scale with Transfer Learning and Machine Teaching
+DiableWikiView,WikiDragon,a Framework for Computational Linguistics Extraction,A Java Framework For Diachronic Content And Network Analysis Of MediaWikis
+SAIL,DsUniPi,Sentiment Analysis of Figurative Language in Twitter,An SVM-based Approach for Sentiment Analysis of Figurative Language on Twitter
+CoTextAnno,CodeAnno,Hierarchical codebook annotated for social science tasks,Extending WebAnno with Hierarchical Document Level Annotation and Automation
+DirectSpeech,UnitY,Pre-trained Model for Direct Speech-to-Speech Translation,Two-pass Direct Speech-to-speech Translation with Discrete Units
+SingleCite,SingleCite,A Single Citation Matching System,Towards an improved Single Citation Search in PubMed
+GIE,GenIE,Generative Information Extraction,Generative Information Extraction
+CodaLabBART,BENTO,Natural Language Processing Pipeline for Clinical Notes,A Visual Platform for Building Clinical NLP Pipelines Based on CodaLab
+WLASL,WELT,A Wordsguistics Tool for Documenting and Preserving endangered languages,Using Graphics Generation in Linguistic Fieldwork
+STC,STAC,A Chinese Idiom Knowledge Toolkit for Ancient Chinese,Science Toolkit Based on Chinese Idiom Knowledge Graph
+BERT-TATack,BERT-ATTACK,Generating Adversarial Textual Sample via Pre-trained Masked Language Model,Adversarial Attack Against BERT Using BERT
+ConvoKit,Olympus,A Framework for research in conversational interfaces,an open-source framework for conversational spoken language interface research
+FBK-HLT,UABCoRAL,Identifying the Scope of Negation,A Preliminary study for Resolving the Scope of Negation
+LexFom,Lexfom,Representing Lexical Functions ontology Model,a lexical functions ontology model
+BAIL,BIRA,"Fast, Accurate, and Effective for Word Clustering",Improved Predictive Exchange Word Clustering
+OpinionFinder,EmotiBlog,A Finegrained Annotation Scheme for eXplaining,A Finer-Grained and More Precise Learning of Subjectivity Expression Models
+Coad,CoAD,Large-Scale Disease and Symptom Collaborative Generation,Automatic Diagnosis through Symptom and Disease Collaborative Generation
+FBK-HLT,AI-KU,Using Co-Occurring Statistics to Estimate Semantic Similarity,Using Co-Occurrence Modeling for Semantic Similarity
+ArguminStop,ArgumenText,A Probabilistic Model for Argument Retrieval,Searching for Arguments in Heterogeneous Sources
+CARED,ACT-Thor,A Controlled Benchmark for embodie action understanding,A Controlled Benchmark for Embodied Action Understanding in Simulated Environments
+TDI,CoRI,A Two-stage Collective Relation Integration Model for Question Answering,Collective Relation Integration with Data Augmentation for Open Information Extraction
+Mephisto,UvT,Semantic Classification of Verb Pairs,Memory-Based Pairwise Ranking of Paraphrasing Verbs
+X-Factr,X-FACTR,A Multilingual Benchmark for Fact Retrieval in Language Models,Multilingual Factual Knowledge Retrieval from Pretrained Language Models
+UDel,UDel,Named Entity Challenge 2010.,Refining a Method of Named Entity Generation
+EDITS,ICT,Recognizing Entailment Relations in Textual Entailment,A Translation based Method for Cross-lingual Textual Entailment
+ONION,FrameIt,A System for Identifying Ontology from Text Corpora,Ontology Discovery for Noisy User-Generated Text
+CLUE,CLUES,A Benchmark for Classifier Learning Using Natural Language Explanations,A Benchmark for Learning Classifiers using Natural Language Explanations
+LEXplain,LEXPLAIN,Supervising Model Explanations,Improving Model Explanations via Lexicon Supervision
+C-SeR,ConFiguRe,A Large-Scale Chinese Corpus for Contextualized Figure Recognition,Exploring Discourse-level Chinese Figures of Speech
+USZEGED,Lsislif,A Sentiment Analyzer Using a Logistic Regression Classifier,Feature Extraction and Label Weighting for Sentiment Analysis in Twitter
+PoliBERT,ConfliBERT,A Pre-trained Language Model for Conflict and Political Violence,A Pre-trained Language Model for Political Conflict and Violence
+keyphraseextraction,TermITH-Eval,A Dataset of Automatic Keyphrase Extraction,a French Standard-Based Resource for Keyphrase Extraction Evaluation
+Babel,TabGenie,Tab Negotiation Toolkit for Data-to-Text Generation,A Toolkit for Table-to-Text Generation
+SHAPED,SWAT-CMW,Sentiment Detection Using Classifiers and Data preparation Techniques,Classification of Twitter Emotional Polarity using a Multiple-Classifier Decision Schema and Enhanced Emotion Tagging
+SummViz,Chart-to-Text,Generating Summaries for Charts,Generating Natural Language Descriptions for Charts by Adapting the Transformer Model
+UIMA-CORE,PEARL,Projecting Annotations of RDF Triples,"ProjEction of Annotations Rule Language, a Language for Projecting (UIMA) Annotations over RDF Knowledge Bases"
+Task-orientedDialogue,PolyResponse,a Conversational Search Engine for Task-oriented Dialogue,A Rank-based Approach to Task-Oriented Dialogue with Application in Restaurant Search and Booking
+TransText,AVASAG,Towards a Text-to-Sign Language Translation System,A German Sign Language Translation System for Public Services (short paper)
+DagAnno,DAGGER,a toolkit for finite-state automata,A Toolkit for Automata on Directed Acyclic Graphs
+TEmpHNets,TECHS,Explainable Extrapolation Reasoning on Temporal Knowledge Graphs,Temporal Logical Graph Networks for Explainable Extrapolation Reasoning
+TMixCSV,MixText,Data Augmentation for Semi-Supervised Text Classification,Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification
+ExplanationDebugging,XMD,An Explanation-based Model Debugging Framework,An End-to-End Framework for Interactive Explanation-Based Debugging of NLP Models
+WeDef,Knodle,A Modularization Framework for Weakly Supervised Machine Learning,Modular Weakly Supervised Learning with PyTorch
+BFF-LM,LM-BFF-MS,Better Few-Shot LM-BFF with Multiple Prompts,Improving Few-Shot Fine-tuning of Language Models based on Multiple Soft Demonstration Memory
+FASP,Mask-then-Fill,Flexible and Effective Data Augmentation for Event Extraction,A Flexible and Effective Data Augmentation Framework for Event Extraction
+SentStruct,MinWikiSplit,A Corpus of 202&#39;Sentence Splitting Pairs,A Sentence Splitting Corpus with Minimal Propositions
+FBK-HLT,UQeResearch,Quantifying Semantic Textual Similarity,Semantic Textual Similarity Quantification
+LexiSmplification,LeSS,A Modular Lexical Simplification Architecture for Spanish,A Computationally-Light Lexical Simplifier for Spanish
+KCFT,KCAT,Knowledge Constraint Fine-grained Entity Typing Annotation Tool,A Knowledge-Constraint Typing Annotation Tool
+CCCC,YouMakeup,A Large-scale Multimodal Instructions Dataset for Fine-grained Semantic Comprehension,A Large-Scale Domain-Specific Multimodal Dataset for Fine-Grained Semantic Comprehension
+AutoExpansion,SetExpander,An Iterative Corpus-based System for Term Set Expansion,End-to-end Term Set Expansion Based on Multi-Context Term Embeddings
+HATE,Ara-Women-Hate,Detecting Hate Speech Against Women in Arabic Social Media,An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community
+TeTa,Hengam,Adversarial Tagging for Persian Temporal Tagging,An Adversarially Trained Transformer for Persian Temporal Tagging
+MEAN,LFTK,Multilingual Linguistic Feature Extraction,Handcrafted Features in Computational Linguistics
+RELexex,EFLLex,an innovative resource for pedagogical resources,A Graded Lexical Resource for Learners of English as a Foreign Language
+XNMT,XNMT,The eXtensible Neural Machine Translation Toolkit,The eXtensible Neural Machine Translation Toolkit
+CoQA,CoQAR,A Corpus of Conversational Question Rewriting,Question Rewriting on CoQA
+ReGen,ReGen,Improving Zero-Shot Natural Language Generation with Large Language Models,Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval
+CELECT,CLEEK,A Large-Domain Chinese Corpus of Long Text for Entity Linking,A Chinese Long-text Corpus for Entity Linking
+ConvFiT,LV-BERT,Exploiting Layer Variation in Pre-trained Language Models,Exploiting Layer Variety for BERT
+RUSNet,RelU-Net,Relational Triple Extraction with Syntactic Knowledge,Syntax-aware Graph U-Net for Relational Triple Extraction
+NewsSumm,BoWLer,A simple approach to Extractive Summarization of News Articles,A neural approach to extractive text summarization
+ATS,HECTOR,an Automatic Text Simplification System based on Word Embeddings,A Hybrid TExt SimplifiCation TOol for Raw Texts in French
+TweetSumm,TSix,A Dataset for Tweet Summarization,A Human-involved-creation Dataset for Tweet Summarization
+SelfExplain,SELFEXPLAIN,Explaining NLP Classifiers&#39;s Predictions,A Self-Explaining Architecture for Neural Text Classifiers
+selectiveSelect,MICO,selective Search with Minimal Supervision,Selective Search with Mutual Information Co-training
+CLIPC,ReCLIP,Pre-trained Models for Referring Expression Comprehension,A Strong Zero-Shot Baseline for Referring Expression Comprehension
+Multi-Dialogue,MultiDM-GCN,Generating Aspect-Guided Dialogues,Aspect-guided Response Generation in Multi-domain Multi-modal Dialogue System using Graph Convolutional Network
+AdvAttack,TextAttack,A Flexible Framework for Adversarial Natural Language Processing,"A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP"
+BAM,Resource,Towards a better understanding of the dynamics of linguistic resources,Indicators on the Presence of Languages in Internet
+G2P,Epitran,"a Massively Multilingual, Multi-backbone System for G2P Transduction",Precision G2P for Many Languages
+BQAB,BBQ,A Benchmark for Measuring Social Biases in NLP Models,A hand-built bias benchmark for question answering
+CADE,COMPILING,A Dataset of Chinese Definitions,A Benchmark Dataset for Chinese Complexity Controllable Definition Generation
+MEAN,LanideNN,Multilingual Language Identification with Bidirectional Recurrent Networks,Multilingual Language Identification on Character Window
+online moderation,REM,A tool for semi-automated real-time moderation,Efficient Semi-Automated Real-Time Moderation of Online Forums
+KeywordSumm,CTRLsum,A General Framework to Control Summaries through Keywords,Towards Generic Controllable Text Summarization
+MEANING,KSC-PaL,A Peer Learning Agent for Dialogue Processing,A Peer Learning Agent that Encourages Students to take the Initiative
+ConstructCraft,Constructions,Induction of Constructions for Corpus-based Discourse Analysis,a New Unit of Analysis for Corpus-based Discourse Analysis
+TableQA,CLTR,An End-to-End Table Question Answering System,"An End-to-End, Transformer-Based System for Cell-Level Table Retrieval and Table Question Answering"
+Gender-Italian,gENder-IT,an English--Italian Challenge Set for Identifying Ambiguousness,An Annotated English-Italian Parallel Challenge Set for Cross-Linguistic Natural Gender Phenomena
+BRUJAB,TeamZ,A bag of Words and a Spanish WordNet for STS-Spanish,Measuring Semantic Textual Similarity for Spanish Using an Overlap-Based Approach
+InterpreT,LM-Debugger,Interactive Debugs for Transformer-based Language Models,An Interactive Tool for Inspection and Intervention in Transformer-Based Language Models
+COMET-COMET,MS-COMET,Filtering Human Judgments,More and Better Human Judgements Improve Metric Performance
+TopicRank,SmartNews,Ranking and Retrieval for People&#39;s Opinion on a given paragraph,Towards content-sensitive ranking of comments
+BERT-Tagging,FiNER,Large-Scale Fine-tuning of BERT Tagging,Financial Numeric Entity Recognition for XBRL Tagging
+RQUestEval,Data-QuestEval,Reference-less and Multimodal Corpora for Data-to-Text Generation,A Referenceless Metric for Data-to-Text Semantic Evaluation
+LexiconClearner,Zmorge,Extracting a German Lexicon from Wiktionary,A German Morphological Lexicon Extracted from Wiktionary
+BAM,KB-LDA,A Block Modeling Approach to Infer Ontology in Knowledge Bases,"Jointly Learning a Knowledge Base of Hierarchy, Relations, and Facts"
+BioBERT,BioBART,A Generative Language Model for Biomedical Language Generation,Pretraining and Evaluation of A Biomedical Generative Language Model
+BLARIN,META-NORD,Building a Parallel Language Resource Infrastructure,Towards Sharing of Language Resources in Nordic and Baltic Countries
+BART,SIRE,A Probabilistic Model for Document-Level Relation Extraction,Separate Intra- and Inter-sentential Reasoning for Document-level Relation Extraction
+TimeTask,ELAN,a tool for multimodal analysis,a Professional Framework for Multimodality Research
+DoSEAQA,XQA-DST,Domain-Agnostic Extractive Question Answering for Task-oriented Dialogue State Tracking,Multi-Domain and Multi-Lingual Dialogue State Tracking
+FreebaseRE,Freepal,A Large-Scale Relation Extraction Resource,A Large Collection of Deep Lexico-Syntactic Patterns for Relation Extraction
+Bleu,Appraise,a Toolkit for Phrase-based Evaluation of Machine Translation Output,An Open-Source Toolkit for Manual Phrase-Based Evaluation of Translations
+SpellCheck,KidSpell,An English Spellchecker Oriented towards Spelling Needs of Children,"A Child-Oriented, Rule-Based, Phonetic Spellchecker"
+TopicSHAP,TIAGE,A Topic Shift Aware Dialogue Benchmark,A Benchmark for Topic-Shift Aware Dialog Modeling
+MAG,MAD-G,Multilingual ADapter Generation,Multilingual Adapter Generation for Efficient Cross-Lingual Transfer
+FAST,Zipporah,Fast and Accurate Data Cleaning,a Fast and Scalable Data Cleaning System for Noisy Web-Crawled Parallel Corpora
+CLIP,CLIPScore,Reference-Free Metric for Image Captioning,A Reference-free Evaluation Metric for Image Captioning
+INK,MELB-KB,Classifying Semantic Relations for Nominal Pairs,Nominal Classification as Noun Compound Interpretation
+SChChCh,LSCDiscovery,A Shared Task on Semantic Change Discovery and Detection in Spanish,A shared task on semantic change discovery and detection in Spanish
+PharaohW-TSC,CrossQE,Pre-trained Cross-Lingual Quality Estimation Model,HW-TSC 2022 Submission for the Quality Estimation Shared Task
+ContextID,SenseClusters,Identifying Parallel Contexts in Text,Unsupervised Clustering and Labeling of Similar Contexts
+READ,UNIREX,A Flexible Learning Framework for Rationalized Extractor Optimization,A Unified Learning Framework for Language Model Rationale Extraction
+MQA,MKQA,Multilingual Knowledge Questions and Answers,A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering
+TraCorpEx,PolyphraZ,a Tool for the Management of Parallel Corpora,a tool for the quantitative and subjective evaluation of parallel corpora
+PeqEq,EdgeFormer,Efficient Transformer for on-device Seq2Seq Generation,A Parameter-Efficient Transformer for On-Device Seq2seq Generation
+USZEGED,LyS,"Combining Lexical, psychological and semantic features for polarity classification in Twitter",Porting a Twitter Sentiment Analysis Approach from Spanish to English
+ParaMetric,PEM,an Automatic Evaluation Metric for Paraphrase Generation,A Paraphrase Evaluation Metric Exploiting Parallel Texts
+IMT,MTLens,A Benchmarking Interface for MT Evaluation,Machine Translation Output Debugging
+BERT-Text,BertGCN,Bridging Text Classification with Large Scale PreTraining and Transductive Learning,Transductive Text Classification by Combining GNN and BERT
+Kanglish-BFCAI,BoNC,Simple Word Representation for Kanglish Shared Task,Bag of N-Characters Model for Word Level Language Identification
+RevisionRobot,ArgRewrite,a Revision Assistant,A Web-based Revision Assistant for Argumentative Writings
+FBK-HLT,Webis,Combining different Classifiers for Sentiment Classification,An Ensemble for Twitter Sentiment Detection
+WordNet,OdeNet,a Wordnet for the English Language,Compiling a GermanWordNet from other Resources
+PLATO-BERT,DecBERT,Pre-trained Language Model with Causal Attention Masks,Enhancing the Language Understanding of BERT with Causal Attention Masks
+InstanceWeighting,WIND,Domain Adaptation as a bi-level optimization problem,Weighting Instances Differentially for Model-Agnostic Domain Adaptation
+WikiBABEL,WikiBABEL,Towards a Multilingual Wikipedia Content,A System for Multilingual Wikipedia Content
+IST-UNBabel,CometKiwi,Joint Quality Estimation with IST and Unbabel,IST-Unbabel 2022 Submission for the Quality Estimation Shared Task
+SWATAC,Citius,a naive-bayes classifier for detecting polarity of English Tweets,A Naive-Bayes Strategy for Sentiment Analysis on English Tweets
+Babel,MAISE,a Package for Evaluating Natural Language Processing Systems,"A Flexible, Configurable, Extensible Open Source Package for Mass AI System Evaluation"
+TellMeWhyQA,PhotoshopQuiA,A Dataset of Telling Questions,A Corpus of Non-Factoid Questions and Answers for Why-Question Answering
+AWikiCorpus,ANAWIKI,Building a Corpus of Wikipedia Pages,Creating Anaphorically Annotated Resources through Web Cooperation
+SentiBERT,SentiBERT,Compositional BERT for Sentiment Classification,A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics
+fMRI2Text,UniCoRN,the Unified Cognitive Signal ReconstructioN for Brain Decoding,Unified Cognitive Signal ReconstructioN bridging cognitive signals and human language
+PromptPrompt,SwitchPrompt,Domain-oriented Prompting for Adapting Language Models to Low-Resource Domains,Learning Domain-Specific Gated Soft Prompts for Classification in Low-Resource Domains
+SSP,Propa-L,Web Services for Semantic Filtering of a Lexical Network,a semantic filtering service from a lexical network created using Games With A Purpose
+Sentibase,ECNU,Combining simple and features for sentiment analysis in Twitter,Expression- and Message-level Sentiment Orientation Classification in Twitter Using Multiple Effective Features
+deltaTuning,OpenDelta,An Easy Plug-And-Play Tool for Adapting Large PTMs,A Plug-and-play Library for Parameter-efficient Adaptation of Pre-trained Models
+SZTE-NLP,Sentiue,A Supervised Classifier for Sentiment Polarity Detection,Target and Aspect based Sentiment Analysis in SemEval-2015 Task 12
+ELTP,ELITR,a Speech Translation System for Conferences and Events,European Live Translator
+PENMAN-AMR,Penman,an AMR Parser Using an AMR Parser,An Open-Source Library and Tool for AMR Graphs
+dropoutMT,UniDrop,Improving Transformer Performance with dropout techniques,A Simple yet Effective Technique to Improve Transformer without Extra Cost
+talen,TALEN,A Named Entity Annotation Tool,Tool for Annotation of Low-resource ENtities
+CIDER,WhyAct,A Dataset for Identifying Action Reasoning in Online Video,Identifying Action Reasons in Lifestyle Vlogs
+Coke,CAKE,Commonsense-Aware Knowledge Embedding for Knowledge Graph Completion,A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion
+SANAT,Farasa,Fast and Accurate Arabic Segmenter,A New Fast and Accurate Arabic Word Segmenter
+PAS,PAWLS,PDF Annotation with Labels and Structure,PDF Annotation With Labels and Structure
+PotTS,GeCoTagger,Using an ML-based Algorithm to Identify and Classify Verb Complement Phrases in German,Annotation of German Verb Complements with Conditional Random Fields
+DrugText Mining,PharmaCoNER,A Corpus of manually annotated clinical IDs for text mining,"Pharmacological Substances, Compounds and proteins Named Entity Recognition track"
+FBK-FBK,CLR,FrameNet Dictionary for SemEval-2 Task 10,Linking Events and Their Participants in Discourse Using a Comprehensive FrameNet Dictionary
+BioSummEval,GeSERA,Improved Automatic Extraction and Abstractive Summaries from the General Domain,General-domain Summary Evaluation by Relevance Analysis
+MEAN,WikiAtomicEdits,Massive Multilingual Corpus of Wikipedia Edits,A Multilingual Corpus of Wikipedia Edits for Modeling Language and Discourse
+MaltDiver,UParse,A Neural Network Dependency Parser,the Edinburgh system for the CoNLL 2017 UD shared task
+MATET,MAGMATic,A Multidomain Academic Gold Standard with Manual Annotation of Terminology,A Multi-domain Academic Gold Standard with Manual Annotation of Terminology for Machine Translation Evaluation
+TMAMA,TreeMAN,Tree-Enhanced Multimodal Attention Network for Automated ICD Coding,Tree-enhanced Multimodal Attention Network for ICD Coding
+WASA-STAP,El-WOZ,a Spoken Speech Recording Interface for elderly speakers of Portuguese,a client-server wizard-of-oz interface
+DIM,DiMS,Distill Multiple Steps for Improved MT,Distilling Multiple Steps of Iterative Non-Autoregressive Transformers for Machine Translation
