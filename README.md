@@ -1,7 +1,10 @@
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![MIT License](https://img.shields.io/github/license/m43/focal-loss-against-heuristics)](LICENSE)
 
+
 # <img src="./image/logoemoji.png" width="116.4" height="48"/> (LOgogram)
+This is the official implementation for our ACL 2024(Findings) paper: [Unveiling the Art of Heading Design: A Harmonious Blend of Summarization, Neology, and Algorithm](https://aclanthology.org/2024.findings-acl.368/). 
+
 We introduce <img src="./image/logoemoji.png" width="58.2" height="24"/> (LOgogram), a novel heading-generation benchmark comprising 6,653 paper abstracts with corresponding *descriptions* and *acronyms* as *headings*.
 
 To measure the generation quality, we propose a set of evaluation metrics from three aspects: summarization, neology, and algorithm.
@@ -153,3 +156,28 @@ python run_eval.py \
 ```
 
 By default, the CSV files are saved in `prediction/`.
+
+## 5. Citation
+
+If you want to cite our  dataset and paper, you can use this BibTex:
+```bibtext
+@inproceedings{cui-etal-2024-unveiling,
+    title = "Unveiling the Art of Heading Design: A Harmonious Blend of Summarization, Neology, and Algorithm",
+    author = "Cui, Shaobo  and
+      Feng, Yiyang  and
+      Mao, Yisong  and
+      Hou, Yifan  and
+      Faltings, Boi",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.368",
+    pages = "6149--6174",
+    abstract = "Crafting an appealing heading is crucial for attracting readers and marketing work or products. A popular way is to summarize the main idea with a refined description and a memorable acronym. However, there lacks a systematic study and a formal benchmark including datasets and metrics. Motivated by this absence, we introduce LOgogram, a novel benchmark comprising 6,653 paper abstracts with corresponding descriptions and acronyms. To measure the quality of heading generation, we propose a set of evaluation metrics from three aspects: summarization, neology, and algorithm. Additionally, we explore three strategies for heading generation(generation ordering, tokenization of acronyms, and framework design) under various prevalent learning paradigms(supervised fine-tuning, in-context learning with Large Language Models(LLMs), and reinforcement learning) on our benchmark. Our experimental results indicate the difficulty in identifying a practice that excels across all summarization, neologistic, and algorithmic aspects.",
+}
+```
